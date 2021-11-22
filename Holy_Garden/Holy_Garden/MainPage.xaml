@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="Holy_Garden.MainPage">
+
+    <StackLayout Padding="0" BackgroundColor="#112B47">
+
+        <Grid>
+
+            <StackLayout Padding="0" Margin="0">
+                <Frame 
+                    BackgroundColor="#112B47" 
+                    HeightRequest="250" 
+                    HorizontalOptions="FillAndExpand">
+                    <StackLayout   VerticalOptions="Center">
+                        <Image Source="holy_garden.png" HeightRequest="150"></Image>
+                    </StackLayout>
+                </Frame>
+                
+            </StackLayout>
+
+            <StackLayout Padding="0" Margin="30,250,30,0">
+                <Frame 
+                    BackgroundColor="White" 
+                    HasShadow="True" 
+                    HeightRequest="410" 
+                    HorizontalOptions="FillAndExpand" 
+                    CornerRadius="40">
+                    <StackLayout>
+
+                        <StackLayout  HorizontalOptions="CenterAndExpand">
+                            <Label 
+                            Text="SIGN IN" 
+                            TextColor="#112B47" 
+                            FontSize="Large" 
+                            FontAttributes="Bold">
+                            </Label>
+                        </StackLayout>
+
+                        <StackLayout Margin="0,25,0,0">
+                            <Frame 
+                               
+                                BackgroundColor="Transparent"
+                                CornerRadius="50"
+                                BorderColor="ForestGreen"
+                                HorizontalOptions="Start"
+                                HeightRequest="50"
+                                WidthRequest="400"
+                                Padding="0"
+                                Margin="0">
+
+                                <StackLayout Orientation="Horizontal">
+                                    <Frame BackgroundColor="AliceBlue" 
+                                           CornerRadius="50"
+                                           HeightRequest="35"
+                                           WidthRequest="35"
+                                           Padding="0"
+                                           Margin="7">
+                                    </Frame>
+                                    <Entry 
+                                        Placeholder="email" 
+                                        HorizontalOptions="FillAndExpand" 
+                                        TextColor="ForestGreen"
+                                        Margin="0,0,15,0"></Entry>
+                                </StackLayout>
+
+
+                            </Frame>
+
+                            <Frame 
+                               
+                                BackgroundColor="Transparent"
+                                CornerRadius="50"
+                                BorderColor="ForestGreen"
+                                HorizontalOptions="Start"
+                                HeightRequest="50"
+                                WidthRequest="400"
+                                Padding="0"
+                                Margin="0,20,0,0">
+
+                                <StackLayout Orientation="Horizontal">
+                                    <Frame BackgroundColor="AliceBlue" 
+                                           CornerRadius="50"
+                                           HeightRequest="35"
+                                           WidthRequest="35"
+                                           Padding="0"
+                                           Margin="7">
+                                    </Frame>
+                                    <Entry 
+                                        Placeholder="password" 
+                                        IsPassword="True"
+                                        HorizontalOptions="FillAndExpand" 
+                                        TextColor="ForestGreen"
+                                        Margin="0,0,15,0"></Entry>
+                                </StackLayout>
+
+
+                            </Frame>
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <CheckBox IsChecked="False" Color="ForestGreen"></CheckBox>
+                            <Label Text="se souvenir de moi" HorizontalTextAlignment="Start" VerticalTextAlignment="Center" FontAttributes="Bold"></Label>
+                            <Label Text="mot de passe oublié ?" 
+                                   TextColor="ForestGreen" 
+                                   HorizontalOptions="EndAndExpand" 
+                                   HorizontalTextAlignment="End"
+                                   VerticalTextAlignment="Center"></Label>
+                        </StackLayout>
+                        <Button Text="SIGN IN" 
+                                TextColor="White" 
+                                CornerRadius="30" 
+                                BackgroundColor="ForestGreen" 
+                                Margin="0,10,0,0"></Button>
+
+                        <StackLayout Orientation="Horizontal">
+
+                            <Grid >
+                                <BoxView BackgroundColor="ForestGreen" 
+                                        HeightRequest="3"
+                                         WidthRequest="250"
+                                        HorizontalOptions="FillAndExpand"
+                                        Margin="60,25,60,25"
+                                     ></BoxView>
+                                <Frame BackgroundColor="White" 
+                                       WidthRequest="40" 
+                                       HeightRequest="40"
+                                       Margin="0"
+                                       Padding="0"
+                                       HasShadow="False"
+                                       CornerRadius="50"
+                                       HorizontalOptions="CenterAndExpand"
+                                       VerticalOptions="Center">
+                                    <Label Text="OU" 
+                                           HorizontalTextAlignment="Center" 
+                                           VerticalTextAlignment="Center" 
+                                           FontAttributes="Bold"
+                                           FontSize="Medium"></Label>
+                                </Frame>
+                            </Grid>
+                  
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                            <Frame BackgroundColor="#5487ff" 
+                                   WidthRequest="40" 
+                                   HeightRequest="40"
+                                   Margin="0"
+                                   Padding="0"
+                                   HasShadow="True"
+                                   CornerRadius="50"
+                                   VerticalOptions="Center">
+                                <Image Source="facebook.png"></Image>
+                            </Frame>
+                            <Frame BackgroundColor="#E7E9EC" 
+                                       WidthRequest="40" 
+                                       HeightRequest="40"
+                                       Margin="0"
+                                       Padding="0"
+                                       HasShadow="True"
+                                       CornerRadius="50"
+                                       VerticalOptions="Center">
+                                <Image Source="github.png"></Image>
+                            </Frame>
+                        </StackLayout>
+                    </StackLayout>
+                        
+
+                </Frame>
+                
+            </StackLayout>
+
+
+        </Grid>
+
+        <StackLayout VerticalOptions="End">
+            <Frame BackgroundColor="Transparent" VerticalOptions="End">
+                <Label Text="© 2021 - Holy_Team"  HorizontalOptions="Center" FontSize="Medium" 
+                       FontAttributes="None"
+                       TextColor="ForestGreen"></Label>
+            </Frame>
+        </StackLayout>
+
+    </StackLayout>
+    
+    
+</ContentPage>
