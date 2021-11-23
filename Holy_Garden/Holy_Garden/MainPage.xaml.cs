@@ -13,6 +13,11 @@ namespace Holy_Garden
         public MainPage()
         {
             InitializeComponent();
+            NavigationPage.SetHasNavigationBar(this, false);
+        }
+        private async void HomePageClick(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new acceuil());
         }
     }
 }

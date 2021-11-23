@@ -16,4 +16,10 @@
     <PackageReference Include="Xamarin.Forms.PancakeView" Version="2.3.0.759" />
     <PackageReference Include="XamarinReactorUI.PancakeView" Version="1.0.124" />
   </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="acceuil.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
 </Project>

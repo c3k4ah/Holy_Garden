@@ -11,10 +11,10 @@
             <StackLayout Padding="0" Margin="0">
                 <Frame 
                     BackgroundColor="#112B47" 
-                    HeightRequest="250" 
+                    HeightRequest="195" 
                     HorizontalOptions="FillAndExpand">
                     <StackLayout   VerticalOptions="Center">
-                        <Image Source="holy_garden.png" HeightRequest="150"></Image>
+                        <Image Source="holy_garden.png" HeightRequest="165"></Image>
                     </StackLayout>
                 </Frame>
                 
@@ -62,10 +62,9 @@
                                         Placeholder="email" 
                                         HorizontalOptions="FillAndExpand" 
                                         TextColor="ForestGreen"
+                                        PlaceholderColor="ForestGreen"
                                         Margin="0,0,15,0"></Entry>
                                 </StackLayout>
-
-
                             </Frame>
 
                             <Frame 
@@ -92,6 +91,8 @@
                                         IsPassword="True"
                                         HorizontalOptions="FillAndExpand" 
                                         TextColor="ForestGreen"
+                                        PlaceholderColor="ForestGreen"
+                                        
                                         Margin="0,0,15,0"></Entry>
                                 </StackLayout>
 
@@ -111,7 +112,9 @@
                                 TextColor="White" 
                                 CornerRadius="30" 
                                 BackgroundColor="ForestGreen" 
-                                Margin="0,10,0,0"></Button>
+                                Margin="25,10,25,0"
+                                Clicked="HomePageClick"
+                                ></Button>
 
                         <StackLayout Orientation="Horizontal">
 
