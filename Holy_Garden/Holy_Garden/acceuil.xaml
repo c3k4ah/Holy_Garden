@@ -2,7 +2,60 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
               x:Class="Holy_Garden.acceuil"
-             NavigationPage.HasNavigationBar="True">
-    
+             NavigationPage.HasNavigationBar="False"
+             BackgroundImage="feuille.png">
+
+    <StackLayout>
+
+        <Grid>
+            
+            <AbsoluteLayout>
+                <Button 
+                        Text="Gellery" 
+                        BackgroundColor="ForestGreen" 
+                        CornerRadius="35" 
+                        WidthRequest="150" 
+                        HeightRequest="50"
+                        AbsoluteLayout.LayoutBounds="60,290"
+                        ></Button>
+
+                <Button 
+                        Text="camera" 
+                        BackgroundColor="ForestGreen"
+                        CornerRadius="35" 
+                        WidthRequest="150" 
+                        HeightRequest="50"
+                         AbsoluteLayout.LayoutBounds="260,290"
+                    ></Button>
+            </AbsoluteLayout>
+            <AbsoluteLayout>
+                <Frame 
+                    AbsoluteLayout.LayoutBounds="0,350"
+                    BackgroundColor="#112B47" 
+                    WidthRequest="435" 
+                    HeightRequest="450"
+                    CornerRadius="40">
+
+                    <StackLayout>
+                        <Label Text="Philosophy est une chanson de Tom Snare le 9 mai 2006 sous le label ULM. la chanson a été composé par Xavier Decanter, Bruno Musitelli, Steve Watt et produit par Tom Snare. La version originale de 2005, sorti sur un EP de format vinyle, dure environ 8 minutes."
+                               TextColor="white"
+                               Margin="25"
+                               FontSize="Large"
+                               FontAttributes="Italic"
+                               ></Label>
+                        <Label Text="Type de plante"
+                               FontAttributes="Bold"
+                               FontSize="Large"
+                               TextColor="ForestGreen"
+                               HorizontalTextAlignment="Start"
+                         ></Label>
+                    </StackLayout>
+
+
+                </Frame>
+            </AbsoluteLayout>
+
+        </Grid>
+    </StackLayout>
    
 </ContentPage>
