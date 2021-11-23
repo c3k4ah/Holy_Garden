@@ -101,11 +101,12 @@
                         </StackLayout>
                         <StackLayout Orientation="Horizontal">
                             <CheckBox IsChecked="False" Color="ForestGreen"></CheckBox>
-                            <Label Text="se souvenir de moi" HorizontalTextAlignment="Start" VerticalTextAlignment="Center" FontAttributes="Bold"></Label>
+                            <Label Text="se souvenir de moi" HorizontalTextAlignment="Start" TextColor="#112B47" FontSize="Medium" VerticalTextAlignment="Center" FontAttributes="Bold"></Label>
                             <Label Text="mot de passe oublié ?" 
                                    TextColor="ForestGreen" 
                                    HorizontalOptions="EndAndExpand" 
                                    HorizontalTextAlignment="End"
+                                   FontSize="Medium"
                                    VerticalTextAlignment="Center"></Label>
                         </StackLayout>
                         <Button Text="SIGN IN" 
@@ -120,7 +121,7 @@
 
                             <Grid >
                                 <BoxView BackgroundColor="ForestGreen" 
-                                        HeightRequest="3"
+                                        HeightRequest="2"
                                          WidthRequest="250"
                                         HorizontalOptions="FillAndExpand"
                                         Margin="60,25,60,25"
@@ -138,7 +139,9 @@
                                            HorizontalTextAlignment="Center" 
                                            VerticalTextAlignment="Center" 
                                            FontAttributes="Bold"
-                                           FontSize="Medium"></Label>
+                                           FontSize="Large"
+                                           TextColor="#112B47"
+                                           ></Label>
                                 </Frame>
                             </Grid>
                   

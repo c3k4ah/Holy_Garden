@@ -7,32 +7,39 @@
 
     <StackLayout>
 
-        <Grid>
-            
-            <AbsoluteLayout>
-                <Button 
-                        Text="Gellery" 
-                        BackgroundColor="ForestGreen" 
+
+
+
+        <StackLayout  Margin="0,280,0,0" Padding="0" HorizontalOptions="CenterAndExpand" Orientation="Horizontal" >
+          
+                <Button
+                    Text="Gellery" 
+                     BackgroundColor="ForestGreen" 
                         CornerRadius="35" 
-                        WidthRequest="150" 
-                        HeightRequest="50"
-                        AbsoluteLayout.LayoutBounds="60,290"
+                        WidthRequest="100"
+                        HeightRequest="40"
+                        Clicked="Gallery"
+                    
                         ></Button>
 
-                <Button 
+                    <Button 
                         Text="camera" 
                         BackgroundColor="ForestGreen"
                         CornerRadius="35" 
-                        WidthRequest="150" 
-                        HeightRequest="50"
-                         AbsoluteLayout.LayoutBounds="260,290"
-                    ></Button>
-            </AbsoluteLayout>
+                        WidthRequest="100"
+                        HeightRequest="40"
+                        Margin="50,0,0,0"
+                        Clicked="Camera">
+
+                    </Button>
+                
+                </StackLayout>
+            
+
+
             <AbsoluteLayout>
                 <Frame 
-                    AbsoluteLayout.LayoutBounds="0,350"
                     BackgroundColor="#112B47" 
-                    WidthRequest="435" 
                     HeightRequest="450"
                     CornerRadius="40">
 
@@ -49,13 +56,16 @@
                                TextColor="ForestGreen"
                                HorizontalTextAlignment="Start"
                          ></Label>
-                    </StackLayout>
-
-
-                </Frame>
+                    
+                        <Image x:Name="resultImage" />
+                    
+                </StackLayout>
+                    
+                
+            </Frame>
             </AbsoluteLayout>
-
-        </Grid>
+            
+        
     </StackLayout>
    
 </ContentPage>

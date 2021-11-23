@@ -25,6 +25,1751 @@ namespace Holy_Garden.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Plugin.Media.Resource.Attribute.alpha = global::Holy_Garden.Droid.Resource.Attribute.alpha;
+			global::Plugin.Media.Resource.Attribute.coordinatorLayoutStyle = global::Holy_Garden.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Plugin.Media.Resource.Attribute.font = global::Holy_Garden.Droid.Resource.Attribute.font;
+			global::Plugin.Media.Resource.Attribute.fontProviderAuthority = global::Holy_Garden.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Plugin.Media.Resource.Attribute.fontProviderCerts = global::Holy_Garden.Droid.Resource.Attribute.fontProviderCerts;
+			global::Plugin.Media.Resource.Attribute.fontProviderFetchStrategy = global::Holy_Garden.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Plugin.Media.Resource.Attribute.fontProviderFetchTimeout = global::Holy_Garden.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Plugin.Media.Resource.Attribute.fontProviderPackage = global::Holy_Garden.Droid.Resource.Attribute.fontProviderPackage;
+			global::Plugin.Media.Resource.Attribute.fontProviderQuery = global::Holy_Garden.Droid.Resource.Attribute.fontProviderQuery;
+			global::Plugin.Media.Resource.Attribute.fontStyle = global::Holy_Garden.Droid.Resource.Attribute.fontStyle;
+			global::Plugin.Media.Resource.Attribute.fontVariationSettings = global::Holy_Garden.Droid.Resource.Attribute.fontVariationSettings;
+			global::Plugin.Media.Resource.Attribute.fontWeight = global::Holy_Garden.Droid.Resource.Attribute.fontWeight;
+			global::Plugin.Media.Resource.Attribute.keylines = global::Holy_Garden.Droid.Resource.Attribute.keylines;
+			global::Plugin.Media.Resource.Attribute.layout_anchor = global::Holy_Garden.Droid.Resource.Attribute.layout_anchor;
+			global::Plugin.Media.Resource.Attribute.layout_anchorGravity = global::Holy_Garden.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Plugin.Media.Resource.Attribute.layout_behavior = global::Holy_Garden.Droid.Resource.Attribute.layout_behavior;
+			global::Plugin.Media.Resource.Attribute.layout_dodgeInsetEdges = global::Holy_Garden.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Plugin.Media.Resource.Attribute.layout_insetEdge = global::Holy_Garden.Droid.Resource.Attribute.layout_insetEdge;
+			global::Plugin.Media.Resource.Attribute.layout_keyline = global::Holy_Garden.Droid.Resource.Attribute.layout_keyline;
+			global::Plugin.Media.Resource.Attribute.statusBarBackground = global::Holy_Garden.Droid.Resource.Attribute.statusBarBackground;
+			global::Plugin.Media.Resource.Attribute.ttcIndex = global::Holy_Garden.Droid.Resource.Attribute.ttcIndex;
+			global::Plugin.Media.Resource.Color.browser_actions_bg_grey = global::Holy_Garden.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Plugin.Media.Resource.Color.browser_actions_divider_color = global::Holy_Garden.Droid.Resource.Color.browser_actions_divider_color;
+			global::Plugin.Media.Resource.Color.browser_actions_text_color = global::Holy_Garden.Droid.Resource.Color.browser_actions_text_color;
+			global::Plugin.Media.Resource.Color.browser_actions_title_color = global::Holy_Garden.Droid.Resource.Color.browser_actions_title_color;
+			global::Plugin.Media.Resource.Color.notification_action_color_filter = global::Holy_Garden.Droid.Resource.Color.notification_action_color_filter;
+			global::Plugin.Media.Resource.Color.notification_icon_bg_color = global::Holy_Garden.Droid.Resource.Color.notification_icon_bg_color;
+			global::Plugin.Media.Resource.Color.ripple_material_light = global::Holy_Garden.Droid.Resource.Color.ripple_material_light;
+			global::Plugin.Media.Resource.Color.secondary_text_default_material_light = global::Holy_Garden.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Plugin.Media.Resource.Dimension.browser_actions_context_menu_max_width = global::Holy_Garden.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Plugin.Media.Resource.Dimension.browser_actions_context_menu_min_padding = global::Holy_Garden.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Plugin.Media.Resource.Dimension.compat_button_inset_horizontal_material = global::Holy_Garden.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Plugin.Media.Resource.Dimension.compat_button_inset_vertical_material = global::Holy_Garden.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Plugin.Media.Resource.Dimension.compat_button_padding_horizontal_material = global::Holy_Garden.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Plugin.Media.Resource.Dimension.compat_button_padding_vertical_material = global::Holy_Garden.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Plugin.Media.Resource.Dimension.compat_control_corner_material = global::Holy_Garden.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Plugin.Media.Resource.Dimension.compat_notification_large_icon_max_height = global::Holy_Garden.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Plugin.Media.Resource.Dimension.compat_notification_large_icon_max_width = global::Holy_Garden.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Plugin.Media.Resource.Dimension.notification_action_icon_size = global::Holy_Garden.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Plugin.Media.Resource.Dimension.notification_action_text_size = global::Holy_Garden.Droid.Resource.Dimension.notification_action_text_size;
+			global::Plugin.Media.Resource.Dimension.notification_big_circle_margin = global::Holy_Garden.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Plugin.Media.Resource.Dimension.notification_content_margin_start = global::Holy_Garden.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Plugin.Media.Resource.Dimension.notification_large_icon_height = global::Holy_Garden.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Plugin.Media.Resource.Dimension.notification_large_icon_width = global::Holy_Garden.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Plugin.Media.Resource.Dimension.notification_main_column_padding_top = global::Holy_Garden.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Plugin.Media.Resource.Dimension.notification_media_narrow_margin = global::Holy_Garden.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Plugin.Media.Resource.Dimension.notification_right_icon_size = global::Holy_Garden.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Plugin.Media.Resource.Dimension.notification_right_side_padding_top = global::Holy_Garden.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Plugin.Media.Resource.Dimension.notification_small_icon_background_padding = global::Holy_Garden.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Plugin.Media.Resource.Dimension.notification_small_icon_size_as_large = global::Holy_Garden.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Plugin.Media.Resource.Dimension.notification_subtext_size = global::Holy_Garden.Droid.Resource.Dimension.notification_subtext_size;
+			global::Plugin.Media.Resource.Dimension.notification_top_pad = global::Holy_Garden.Droid.Resource.Dimension.notification_top_pad;
+			global::Plugin.Media.Resource.Dimension.notification_top_pad_large_text = global::Holy_Garden.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Plugin.Media.Resource.Drawable.notification_action_background = global::Holy_Garden.Droid.Resource.Drawable.notification_action_background;
+			global::Plugin.Media.Resource.Drawable.notification_bg = global::Holy_Garden.Droid.Resource.Drawable.notification_bg;
+			global::Plugin.Media.Resource.Drawable.notification_bg_low = global::Holy_Garden.Droid.Resource.Drawable.notification_bg_low;
+			global::Plugin.Media.Resource.Drawable.notification_bg_low_normal = global::Holy_Garden.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Plugin.Media.Resource.Drawable.notification_bg_low_pressed = global::Holy_Garden.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Plugin.Media.Resource.Drawable.notification_bg_normal = global::Holy_Garden.Droid.Resource.Drawable.notification_bg_normal;
+			global::Plugin.Media.Resource.Drawable.notification_bg_normal_pressed = global::Holy_Garden.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Plugin.Media.Resource.Drawable.notification_icon_background = global::Holy_Garden.Droid.Resource.Drawable.notification_icon_background;
+			global::Plugin.Media.Resource.Drawable.notification_template_icon_bg = global::Holy_Garden.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Plugin.Media.Resource.Drawable.notification_template_icon_low_bg = global::Holy_Garden.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Plugin.Media.Resource.Drawable.notification_tile_bg = global::Holy_Garden.Droid.Resource.Drawable.notification_tile_bg;
+			global::Plugin.Media.Resource.Drawable.notify_panel_notification_icon_bg = global::Holy_Garden.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Plugin.Media.Resource.Id.accessibility_action_clickable_span = global::Holy_Garden.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_0 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_1 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_10 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_11 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_12 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_13 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_14 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_15 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_16 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_17 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_18 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_19 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_2 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_20 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_21 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_22 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_23 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_24 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_25 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_26 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_27 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_28 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_29 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_3 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_30 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_31 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_4 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_5 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_6 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_7 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_8 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Plugin.Media.Resource.Id.accessibility_custom_action_9 = global::Holy_Garden.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Plugin.Media.Resource.Id.actions = global::Holy_Garden.Droid.Resource.Id.actions;
+			global::Plugin.Media.Resource.Id.action_container = global::Holy_Garden.Droid.Resource.Id.action_container;
+			global::Plugin.Media.Resource.Id.action_divider = global::Holy_Garden.Droid.Resource.Id.action_divider;
+			global::Plugin.Media.Resource.Id.action_image = global::Holy_Garden.Droid.Resource.Id.action_image;
+			global::Plugin.Media.Resource.Id.action_text = global::Holy_Garden.Droid.Resource.Id.action_text;
+			global::Plugin.Media.Resource.Id.all = global::Holy_Garden.Droid.Resource.Id.all;
+			global::Plugin.Media.Resource.Id.async = global::Holy_Garden.Droid.Resource.Id.async;
+			global::Plugin.Media.Resource.Id.blocking = global::Holy_Garden.Droid.Resource.Id.blocking;
+			global::Plugin.Media.Resource.Id.bottom = global::Holy_Garden.Droid.Resource.Id.bottom;
+			global::Plugin.Media.Resource.Id.browser_actions_header_text = global::Holy_Garden.Droid.Resource.Id.browser_actions_header_text;
+			global::Plugin.Media.Resource.Id.browser_actions_menu_items = global::Holy_Garden.Droid.Resource.Id.browser_actions_menu_items;
+			global::Plugin.Media.Resource.Id.browser_actions_menu_item_icon = global::Holy_Garden.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Plugin.Media.Resource.Id.browser_actions_menu_item_text = global::Holy_Garden.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Plugin.Media.Resource.Id.browser_actions_menu_view = global::Holy_Garden.Droid.Resource.Id.browser_actions_menu_view;
+			global::Plugin.Media.Resource.Id.center = global::Holy_Garden.Droid.Resource.Id.center;
+			global::Plugin.Media.Resource.Id.center_horizontal = global::Holy_Garden.Droid.Resource.Id.center_horizontal;
+			global::Plugin.Media.Resource.Id.center_vertical = global::Holy_Garden.Droid.Resource.Id.center_vertical;
+			global::Plugin.Media.Resource.Id.chronometer = global::Holy_Garden.Droid.Resource.Id.chronometer;
+			global::Plugin.Media.Resource.Id.clip_horizontal = global::Holy_Garden.Droid.Resource.Id.clip_horizontal;
+			global::Plugin.Media.Resource.Id.clip_vertical = global::Holy_Garden.Droid.Resource.Id.clip_vertical;
+			global::Plugin.Media.Resource.Id.dialog_button = global::Holy_Garden.Droid.Resource.Id.dialog_button;
+			global::Plugin.Media.Resource.Id.end = global::Holy_Garden.Droid.Resource.Id.end;
+			global::Plugin.Media.Resource.Id.fill = global::Holy_Garden.Droid.Resource.Id.fill;
+			global::Plugin.Media.Resource.Id.fill_horizontal = global::Holy_Garden.Droid.Resource.Id.fill_horizontal;
+			global::Plugin.Media.Resource.Id.fill_vertical = global::Holy_Garden.Droid.Resource.Id.fill_vertical;
+			global::Plugin.Media.Resource.Id.forever = global::Holy_Garden.Droid.Resource.Id.forever;
+			global::Plugin.Media.Resource.Id.icon = global::Holy_Garden.Droid.Resource.Id.icon;
+			global::Plugin.Media.Resource.Id.icon_group = global::Holy_Garden.Droid.Resource.Id.icon_group;
+			global::Plugin.Media.Resource.Id.info = global::Holy_Garden.Droid.Resource.Id.info;
+			global::Plugin.Media.Resource.Id.italic = global::Holy_Garden.Droid.Resource.Id.italic;
+			global::Plugin.Media.Resource.Id.left = global::Holy_Garden.Droid.Resource.Id.left;
+			global::Plugin.Media.Resource.Id.line1 = global::Holy_Garden.Droid.Resource.Id.line1;
+			global::Plugin.Media.Resource.Id.line3 = global::Holy_Garden.Droid.Resource.Id.line3;
+			global::Plugin.Media.Resource.Id.none = global::Holy_Garden.Droid.Resource.Id.none;
+			global::Plugin.Media.Resource.Id.normal = global::Holy_Garden.Droid.Resource.Id.normal;
+			global::Plugin.Media.Resource.Id.notification_background = global::Holy_Garden.Droid.Resource.Id.notification_background;
+			global::Plugin.Media.Resource.Id.notification_main_column = global::Holy_Garden.Droid.Resource.Id.notification_main_column;
+			global::Plugin.Media.Resource.Id.notification_main_column_container = global::Holy_Garden.Droid.Resource.Id.notification_main_column_container;
+			global::Plugin.Media.Resource.Id.right = global::Holy_Garden.Droid.Resource.Id.right;
+			global::Plugin.Media.Resource.Id.right_icon = global::Holy_Garden.Droid.Resource.Id.right_icon;
+			global::Plugin.Media.Resource.Id.right_side = global::Holy_Garden.Droid.Resource.Id.right_side;
+			global::Plugin.Media.Resource.Id.start = global::Holy_Garden.Droid.Resource.Id.start;
+			global::Plugin.Media.Resource.Id.tag_accessibility_actions = global::Holy_Garden.Droid.Resource.Id.tag_accessibility_actions;
+			global::Plugin.Media.Resource.Id.tag_accessibility_clickable_spans = global::Holy_Garden.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Plugin.Media.Resource.Id.tag_accessibility_heading = global::Holy_Garden.Droid.Resource.Id.tag_accessibility_heading;
+			global::Plugin.Media.Resource.Id.tag_accessibility_pane_title = global::Holy_Garden.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Plugin.Media.Resource.Id.tag_screen_reader_focusable = global::Holy_Garden.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Plugin.Media.Resource.Id.tag_transition_group = global::Holy_Garden.Droid.Resource.Id.tag_transition_group;
+			global::Plugin.Media.Resource.Id.tag_unhandled_key_event_manager = global::Holy_Garden.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Plugin.Media.Resource.Id.tag_unhandled_key_listeners = global::Holy_Garden.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Plugin.Media.Resource.Id.text = global::Holy_Garden.Droid.Resource.Id.text;
+			global::Plugin.Media.Resource.Id.text2 = global::Holy_Garden.Droid.Resource.Id.text2;
+			global::Plugin.Media.Resource.Id.time = global::Holy_Garden.Droid.Resource.Id.time;
+			global::Plugin.Media.Resource.Id.title = global::Holy_Garden.Droid.Resource.Id.title;
+			global::Plugin.Media.Resource.Id.top = global::Holy_Garden.Droid.Resource.Id.top;
+			global::Plugin.Media.Resource.Integer.status_bar_notification_info_maxnum = global::Holy_Garden.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Plugin.Media.Resource.Layout.browser_actions_context_menu_page = global::Holy_Garden.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Plugin.Media.Resource.Layout.browser_actions_context_menu_row = global::Holy_Garden.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Plugin.Media.Resource.Layout.custom_dialog = global::Holy_Garden.Droid.Resource.Layout.custom_dialog;
+			global::Plugin.Media.Resource.Layout.notification_action = global::Holy_Garden.Droid.Resource.Layout.notification_action;
+			global::Plugin.Media.Resource.Layout.notification_action_tombstone = global::Holy_Garden.Droid.Resource.Layout.notification_action_tombstone;
+			global::Plugin.Media.Resource.Layout.notification_template_custom_big = global::Holy_Garden.Droid.Resource.Layout.notification_template_custom_big;
+			global::Plugin.Media.Resource.Layout.notification_template_icon_group = global::Holy_Garden.Droid.Resource.Layout.notification_template_icon_group;
+			global::Plugin.Media.Resource.Layout.notification_template_part_chronometer = global::Holy_Garden.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Plugin.Media.Resource.Layout.notification_template_part_time = global::Holy_Garden.Droid.Resource.Layout.notification_template_part_time;
+			global::Plugin.Media.Resource.String.status_bar_notification_info_overflow = global::Holy_Garden.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Plugin.Media.Resource.Style.TextAppearance_Compat_Notification = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Plugin.Media.Resource.Style.TextAppearance_Compat_Notification_Info = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Plugin.Media.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Plugin.Media.Resource.Style.TextAppearance_Compat_Notification_Time = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Plugin.Media.Resource.Style.TextAppearance_Compat_Notification_Title = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Plugin.Media.Resource.Style.Widget_Compat_NotificationActionContainer = global::Holy_Garden.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Plugin.Media.Resource.Style.Widget_Compat_NotificationActionText = global::Holy_Garden.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Plugin.Media.Resource.Style.Widget_Support_CoordinatorLayout = global::Holy_Garden.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Plugin.Media.Resource.Styleable.ColorStateListItem = global::Holy_Garden.Droid.Resource.Styleable.ColorStateListItem;
+			global::Plugin.Media.Resource.Styleable.ColorStateListItem_alpha = global::Holy_Garden.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Plugin.Media.Resource.Styleable.ColorStateListItem_android_alpha = global::Holy_Garden.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Plugin.Media.Resource.Styleable.ColorStateListItem_android_color = global::Holy_Garden.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_keylines = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_Layout = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Plugin.Media.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Plugin.Media.Resource.Styleable.FontFamily = global::Holy_Garden.Droid.Resource.Styleable.FontFamily;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_android_font = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_font = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_fontStyle = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_fontWeight = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Plugin.Media.Resource.Styleable.FontFamilyFont_ttcIndex = global::Holy_Garden.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Plugin.Media.Resource.Styleable.FontFamily_fontProviderAuthority = global::Holy_Garden.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Plugin.Media.Resource.Styleable.FontFamily_fontProviderCerts = global::Holy_Garden.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Plugin.Media.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Holy_Garden.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Plugin.Media.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Holy_Garden.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Plugin.Media.Resource.Styleable.FontFamily_fontProviderPackage = global::Holy_Garden.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Plugin.Media.Resource.Styleable.FontFamily_fontProviderQuery = global::Holy_Garden.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Plugin.Media.Resource.Styleable.GradientColor = global::Holy_Garden.Droid.Resource.Styleable.GradientColor;
+			global::Plugin.Media.Resource.Styleable.GradientColorItem = global::Holy_Garden.Droid.Resource.Styleable.GradientColorItem;
+			global::Plugin.Media.Resource.Styleable.GradientColorItem_android_color = global::Holy_Garden.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Plugin.Media.Resource.Styleable.GradientColorItem_android_offset = global::Holy_Garden.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_centerColor = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_centerX = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_centerY = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_endColor = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_endX = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_endY = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_gradientRadius = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_startColor = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_startX = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_startY = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_tileMode = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Plugin.Media.Resource.Styleable.GradientColor_android_type = global::Holy_Garden.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Plugin.Media.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Holy_Garden.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_fade_in = global::Holy_Garden.Droid.Resource.Animation.abc_fade_in;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_fade_out = global::Holy_Garden.Droid.Resource.Animation.abc_fade_out;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::Holy_Garden.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_popup_enter = global::Holy_Garden.Droid.Resource.Animation.abc_popup_enter;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_popup_exit = global::Holy_Garden.Droid.Resource.Animation.abc_popup_exit;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Holy_Garden.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_slide_in_bottom = global::Holy_Garden.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_slide_in_top = global::Holy_Garden.Droid.Resource.Animation.abc_slide_in_top;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_slide_out_bottom = global::Holy_Garden.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarians.Media.Droid.Resource.Animation.abc_slide_out_top = global::Holy_Garden.Droid.Resource.Animation.abc_slide_out_top;
+			global::Xamarians.Media.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::Holy_Garden.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarians.Media.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::Holy_Garden.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarians.Media.Droid.Resource.Animation.design_snackbar_in = global::Holy_Garden.Droid.Resource.Animation.design_snackbar_in;
+			global::Xamarians.Media.Droid.Resource.Animation.design_snackbar_out = global::Holy_Garden.Droid.Resource.Animation.design_snackbar_out;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarDivider = global::Holy_Garden.Droid.Resource.Attribute.actionBarDivider;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarItemBackground = global::Holy_Garden.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarPopupTheme = global::Holy_Garden.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarSize = global::Holy_Garden.Droid.Resource.Attribute.actionBarSize;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarSplitStyle = global::Holy_Garden.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarStyle = global::Holy_Garden.Droid.Resource.Attribute.actionBarStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarTabBarStyle = global::Holy_Garden.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarTabStyle = global::Holy_Garden.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarTabTextStyle = global::Holy_Garden.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarTheme = global::Holy_Garden.Droid.Resource.Attribute.actionBarTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionBarWidgetTheme = global::Holy_Garden.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.actionButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionDropDownStyle = global::Holy_Garden.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionLayout = global::Holy_Garden.Droid.Resource.Attribute.actionLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionMenuTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionMenuTextColor = global::Holy_Garden.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeBackground = global::Holy_Garden.Droid.Resource.Attribute.actionModeBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeCloseDrawable = global::Holy_Garden.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeCopyDrawable = global::Holy_Garden.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeCutDrawable = global::Holy_Garden.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeFindDrawable = global::Holy_Garden.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModePasteDrawable = global::Holy_Garden.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModePopupWindowStyle = global::Holy_Garden.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::Holy_Garden.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeShareDrawable = global::Holy_Garden.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeSplitBackground = global::Holy_Garden.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeStyle = global::Holy_Garden.Droid.Resource.Attribute.actionModeStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::Holy_Garden.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionOverflowButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionOverflowMenuStyle = global::Holy_Garden.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionProviderClass = global::Holy_Garden.Droid.Resource.Attribute.actionProviderClass;
+			global::Xamarians.Media.Droid.Resource.Attribute.actionViewClass = global::Holy_Garden.Droid.Resource.Attribute.actionViewClass;
+			global::Xamarians.Media.Droid.Resource.Attribute.activityChooserViewStyle = global::Holy_Garden.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::Holy_Garden.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.alertDialogCenterButtons = global::Holy_Garden.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarians.Media.Droid.Resource.Attribute.alertDialogStyle = global::Holy_Garden.Droid.Resource.Attribute.alertDialogStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.alertDialogTheme = global::Holy_Garden.Droid.Resource.Attribute.alertDialogTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.allowStacking = global::Holy_Garden.Droid.Resource.Attribute.allowStacking;
+			global::Xamarians.Media.Droid.Resource.Attribute.arrowHeadLength = global::Holy_Garden.Droid.Resource.Attribute.arrowHeadLength;
+			global::Xamarians.Media.Droid.Resource.Attribute.arrowShaftLength = global::Holy_Garden.Droid.Resource.Attribute.arrowShaftLength;
+			global::Xamarians.Media.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::Holy_Garden.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.background = global::Holy_Garden.Droid.Resource.Attribute.background;
+			global::Xamarians.Media.Droid.Resource.Attribute.backgroundSplit = global::Holy_Garden.Droid.Resource.Attribute.backgroundSplit;
+			global::Xamarians.Media.Droid.Resource.Attribute.backgroundStacked = global::Holy_Garden.Droid.Resource.Attribute.backgroundStacked;
+			global::Xamarians.Media.Droid.Resource.Attribute.backgroundTint = global::Holy_Garden.Droid.Resource.Attribute.backgroundTint;
+			global::Xamarians.Media.Droid.Resource.Attribute.backgroundTintMode = global::Holy_Garden.Droid.Resource.Attribute.backgroundTintMode;
+			global::Xamarians.Media.Droid.Resource.Attribute.barLength = global::Holy_Garden.Droid.Resource.Attribute.barLength;
+			global::Xamarians.Media.Droid.Resource.Attribute.behavior_hideable = global::Holy_Garden.Droid.Resource.Attribute.behavior_hideable;
+			global::Xamarians.Media.Droid.Resource.Attribute.behavior_overlapTop = global::Holy_Garden.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Xamarians.Media.Droid.Resource.Attribute.behavior_peekHeight = global::Holy_Garden.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Xamarians.Media.Droid.Resource.Attribute.borderWidth = global::Holy_Garden.Droid.Resource.Attribute.borderWidth;
+			global::Xamarians.Media.Droid.Resource.Attribute.borderlessButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.bottomSheetDialogTheme = global::Holy_Garden.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.bottomSheetStyle = global::Holy_Garden.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonBarButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonBarStyle = global::Holy_Garden.Droid.Resource.Attribute.buttonBarStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonPanelSideLayout = global::Holy_Garden.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonStyle = global::Holy_Garden.Droid.Resource.Attribute.buttonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonStyleSmall = global::Holy_Garden.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonTint = global::Holy_Garden.Droid.Resource.Attribute.buttonTint;
+			global::Xamarians.Media.Droid.Resource.Attribute.buttonTintMode = global::Holy_Garden.Droid.Resource.Attribute.buttonTintMode;
+			global::Xamarians.Media.Droid.Resource.Attribute.cardBackgroundColor = global::Holy_Garden.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.cardCornerRadius = global::Holy_Garden.Droid.Resource.Attribute.cardCornerRadius;
+			global::Xamarians.Media.Droid.Resource.Attribute.cardElevation = global::Holy_Garden.Droid.Resource.Attribute.cardElevation;
+			global::Xamarians.Media.Droid.Resource.Attribute.cardMaxElevation = global::Holy_Garden.Droid.Resource.Attribute.cardMaxElevation;
+			global::Xamarians.Media.Droid.Resource.Attribute.cardPreventCornerOverlap = global::Holy_Garden.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarians.Media.Droid.Resource.Attribute.cardUseCompatPadding = global::Holy_Garden.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.checkboxStyle = global::Holy_Garden.Droid.Resource.Attribute.checkboxStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.checkedTextViewStyle = global::Holy_Garden.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.closeIcon = global::Holy_Garden.Droid.Resource.Attribute.closeIcon;
+			global::Xamarians.Media.Droid.Resource.Attribute.closeItemLayout = global::Holy_Garden.Droid.Resource.Attribute.closeItemLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.collapseContentDescription = global::Holy_Garden.Droid.Resource.Attribute.collapseContentDescription;
+			global::Xamarians.Media.Droid.Resource.Attribute.collapseIcon = global::Holy_Garden.Droid.Resource.Attribute.collapseIcon;
+			global::Xamarians.Media.Droid.Resource.Attribute.collapsedTitleGravity = global::Holy_Garden.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarians.Media.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.color = global::Holy_Garden.Droid.Resource.Attribute.color;
+			global::Xamarians.Media.Droid.Resource.Attribute.colorAccent = global::Holy_Garden.Droid.Resource.Attribute.colorAccent;
+			global::Xamarians.Media.Droid.Resource.Attribute.colorButtonNormal = global::Holy_Garden.Droid.Resource.Attribute.colorButtonNormal;
+			global::Xamarians.Media.Droid.Resource.Attribute.colorControlActivated = global::Holy_Garden.Droid.Resource.Attribute.colorControlActivated;
+			global::Xamarians.Media.Droid.Resource.Attribute.colorControlHighlight = global::Holy_Garden.Droid.Resource.Attribute.colorControlHighlight;
+			global::Xamarians.Media.Droid.Resource.Attribute.colorControlNormal = global::Holy_Garden.Droid.Resource.Attribute.colorControlNormal;
+			global::Xamarians.Media.Droid.Resource.Attribute.colorPrimary = global::Holy_Garden.Droid.Resource.Attribute.colorPrimary;
+			global::Xamarians.Media.Droid.Resource.Attribute.colorPrimaryDark = global::Holy_Garden.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Xamarians.Media.Droid.Resource.Attribute.colorSwitchThumbNormal = global::Holy_Garden.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarians.Media.Droid.Resource.Attribute.commitIcon = global::Holy_Garden.Droid.Resource.Attribute.commitIcon;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentInsetEnd = global::Holy_Garden.Droid.Resource.Attribute.contentInsetEnd;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentInsetLeft = global::Holy_Garden.Droid.Resource.Attribute.contentInsetLeft;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentInsetRight = global::Holy_Garden.Droid.Resource.Attribute.contentInsetRight;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentInsetStart = global::Holy_Garden.Droid.Resource.Attribute.contentInsetStart;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentPadding = global::Holy_Garden.Droid.Resource.Attribute.contentPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentPaddingBottom = global::Holy_Garden.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentPaddingLeft = global::Holy_Garden.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentPaddingRight = global::Holy_Garden.Droid.Resource.Attribute.contentPaddingRight;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentPaddingTop = global::Holy_Garden.Droid.Resource.Attribute.contentPaddingTop;
+			global::Xamarians.Media.Droid.Resource.Attribute.contentScrim = global::Holy_Garden.Droid.Resource.Attribute.contentScrim;
+			global::Xamarians.Media.Droid.Resource.Attribute.controlBackground = global::Holy_Garden.Droid.Resource.Attribute.controlBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.counterEnabled = global::Holy_Garden.Droid.Resource.Attribute.counterEnabled;
+			global::Xamarians.Media.Droid.Resource.Attribute.counterMaxLength = global::Holy_Garden.Droid.Resource.Attribute.counterMaxLength;
+			global::Xamarians.Media.Droid.Resource.Attribute.counterOverflowTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.counterTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.counterTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.customNavigationLayout = global::Holy_Garden.Droid.Resource.Attribute.customNavigationLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.defaultQueryHint = global::Holy_Garden.Droid.Resource.Attribute.defaultQueryHint;
+			global::Xamarians.Media.Droid.Resource.Attribute.dialogPreferredPadding = global::Holy_Garden.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.dialogTheme = global::Holy_Garden.Droid.Resource.Attribute.dialogTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.displayOptions = global::Holy_Garden.Droid.Resource.Attribute.displayOptions;
+			global::Xamarians.Media.Droid.Resource.Attribute.divider = global::Holy_Garden.Droid.Resource.Attribute.divider;
+			global::Xamarians.Media.Droid.Resource.Attribute.dividerHorizontal = global::Holy_Garden.Droid.Resource.Attribute.dividerHorizontal;
+			global::Xamarians.Media.Droid.Resource.Attribute.dividerPadding = global::Holy_Garden.Droid.Resource.Attribute.dividerPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.dividerVertical = global::Holy_Garden.Droid.Resource.Attribute.dividerVertical;
+			global::Xamarians.Media.Droid.Resource.Attribute.drawableSize = global::Holy_Garden.Droid.Resource.Attribute.drawableSize;
+			global::Xamarians.Media.Droid.Resource.Attribute.drawerArrowStyle = global::Holy_Garden.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.dropDownListViewStyle = global::Holy_Garden.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::Holy_Garden.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarians.Media.Droid.Resource.Attribute.editTextBackground = global::Holy_Garden.Droid.Resource.Attribute.editTextBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.editTextColor = global::Holy_Garden.Droid.Resource.Attribute.editTextColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.editTextStyle = global::Holy_Garden.Droid.Resource.Attribute.editTextStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.elevation = global::Holy_Garden.Droid.Resource.Attribute.elevation;
+			global::Xamarians.Media.Droid.Resource.Attribute.errorEnabled = global::Holy_Garden.Droid.Resource.Attribute.errorEnabled;
+			global::Xamarians.Media.Droid.Resource.Attribute.errorTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.errorTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Holy_Garden.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarians.Media.Droid.Resource.Attribute.expanded = global::Holy_Garden.Droid.Resource.Attribute.expanded;
+			global::Xamarians.Media.Droid.Resource.Attribute.expandedTitleGravity = global::Holy_Garden.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Xamarians.Media.Droid.Resource.Attribute.expandedTitleMargin = global::Holy_Garden.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Xamarians.Media.Droid.Resource.Attribute.expandedTitleMarginBottom = global::Holy_Garden.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarians.Media.Droid.Resource.Attribute.expandedTitleMarginEnd = global::Holy_Garden.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarians.Media.Droid.Resource.Attribute.expandedTitleMarginStart = global::Holy_Garden.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarians.Media.Droid.Resource.Attribute.expandedTitleMarginTop = global::Holy_Garden.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarians.Media.Droid.Resource.Attribute.expandedTitleTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.fabSize = global::Holy_Garden.Droid.Resource.Attribute.fabSize;
+			global::Xamarians.Media.Droid.Resource.Attribute.foregroundInsidePadding = global::Holy_Garden.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.gapBetweenBars = global::Holy_Garden.Droid.Resource.Attribute.gapBetweenBars;
+			global::Xamarians.Media.Droid.Resource.Attribute.goIcon = global::Holy_Garden.Droid.Resource.Attribute.goIcon;
+			global::Xamarians.Media.Droid.Resource.Attribute.headerLayout = global::Holy_Garden.Droid.Resource.Attribute.headerLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.height = global::Holy_Garden.Droid.Resource.Attribute.height;
+			global::Xamarians.Media.Droid.Resource.Attribute.hideOnContentScroll = global::Holy_Garden.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Xamarians.Media.Droid.Resource.Attribute.hintAnimationEnabled = global::Holy_Garden.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarians.Media.Droid.Resource.Attribute.hintEnabled = global::Holy_Garden.Droid.Resource.Attribute.hintEnabled;
+			global::Xamarians.Media.Droid.Resource.Attribute.hintTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.hintTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.homeAsUpIndicator = global::Holy_Garden.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarians.Media.Droid.Resource.Attribute.homeLayout = global::Holy_Garden.Droid.Resource.Attribute.homeLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.icon = global::Holy_Garden.Droid.Resource.Attribute.icon;
+			global::Xamarians.Media.Droid.Resource.Attribute.iconifiedByDefault = global::Holy_Garden.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Xamarians.Media.Droid.Resource.Attribute.imageButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.imageButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.indeterminateProgressStyle = global::Holy_Garden.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.initialActivityCount = global::Holy_Garden.Droid.Resource.Attribute.initialActivityCount;
+			global::Xamarians.Media.Droid.Resource.Attribute.insetForeground = global::Holy_Garden.Droid.Resource.Attribute.insetForeground;
+			global::Xamarians.Media.Droid.Resource.Attribute.isLightTheme = global::Holy_Garden.Droid.Resource.Attribute.isLightTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.itemBackground = global::Holy_Garden.Droid.Resource.Attribute.itemBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.itemIconTint = global::Holy_Garden.Droid.Resource.Attribute.itemIconTint;
+			global::Xamarians.Media.Droid.Resource.Attribute.itemPadding = global::Holy_Garden.Droid.Resource.Attribute.itemPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.itemTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.itemTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.itemTextColor = global::Holy_Garden.Droid.Resource.Attribute.itemTextColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.keylines = global::Holy_Garden.Droid.Resource.Attribute.keylines;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout = global::Holy_Garden.Droid.Resource.Attribute.layout;
+			global::Xamarians.Media.Droid.Resource.Attribute.layoutManager = global::Holy_Garden.Droid.Resource.Attribute.layoutManager;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout_anchor = global::Holy_Garden.Droid.Resource.Attribute.layout_anchor;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout_anchorGravity = global::Holy_Garden.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout_behavior = global::Holy_Garden.Droid.Resource.Attribute.layout_behavior;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout_collapseMode = global::Holy_Garden.Droid.Resource.Attribute.layout_collapseMode;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::Holy_Garden.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout_keyline = global::Holy_Garden.Droid.Resource.Attribute.layout_keyline;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout_scrollFlags = global::Holy_Garden.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Xamarians.Media.Droid.Resource.Attribute.layout_scrollInterpolator = global::Holy_Garden.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarians.Media.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::Holy_Garden.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarians.Media.Droid.Resource.Attribute.listDividerAlertDialog = global::Holy_Garden.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarians.Media.Droid.Resource.Attribute.listItemLayout = global::Holy_Garden.Droid.Resource.Attribute.listItemLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.listLayout = global::Holy_Garden.Droid.Resource.Attribute.listLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.listPopupWindowStyle = global::Holy_Garden.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.listPreferredItemHeight = global::Holy_Garden.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarians.Media.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::Holy_Garden.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarians.Media.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::Holy_Garden.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarians.Media.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::Holy_Garden.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarians.Media.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::Holy_Garden.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarians.Media.Droid.Resource.Attribute.logo = global::Holy_Garden.Droid.Resource.Attribute.logo;
+			global::Xamarians.Media.Droid.Resource.Attribute.logoDescription = global::Holy_Garden.Droid.Resource.Attribute.logoDescription;
+			global::Xamarians.Media.Droid.Resource.Attribute.maxActionInlineWidth = global::Holy_Garden.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarians.Media.Droid.Resource.Attribute.maxButtonHeight = global::Holy_Garden.Droid.Resource.Attribute.maxButtonHeight;
+			global::Xamarians.Media.Droid.Resource.Attribute.measureWithLargestChild = global::Holy_Garden.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Xamarians.Media.Droid.Resource.Attribute.menu = global::Holy_Garden.Droid.Resource.Attribute.menu;
+			global::Xamarians.Media.Droid.Resource.Attribute.multiChoiceItemLayout = global::Holy_Garden.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.navigationContentDescription = global::Holy_Garden.Droid.Resource.Attribute.navigationContentDescription;
+			global::Xamarians.Media.Droid.Resource.Attribute.navigationIcon = global::Holy_Garden.Droid.Resource.Attribute.navigationIcon;
+			global::Xamarians.Media.Droid.Resource.Attribute.navigationMode = global::Holy_Garden.Droid.Resource.Attribute.navigationMode;
+			global::Xamarians.Media.Droid.Resource.Attribute.overlapAnchor = global::Holy_Garden.Droid.Resource.Attribute.overlapAnchor;
+			global::Xamarians.Media.Droid.Resource.Attribute.paddingEnd = global::Holy_Garden.Droid.Resource.Attribute.paddingEnd;
+			global::Xamarians.Media.Droid.Resource.Attribute.paddingStart = global::Holy_Garden.Droid.Resource.Attribute.paddingStart;
+			global::Xamarians.Media.Droid.Resource.Attribute.panelBackground = global::Holy_Garden.Droid.Resource.Attribute.panelBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.panelMenuListTheme = global::Holy_Garden.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.panelMenuListWidth = global::Holy_Garden.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Xamarians.Media.Droid.Resource.Attribute.popupMenuStyle = global::Holy_Garden.Droid.Resource.Attribute.popupMenuStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.popupTheme = global::Holy_Garden.Droid.Resource.Attribute.popupTheme;
+			global::Xamarians.Media.Droid.Resource.Attribute.popupWindowStyle = global::Holy_Garden.Droid.Resource.Attribute.popupWindowStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.preserveIconSpacing = global::Holy_Garden.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Xamarians.Media.Droid.Resource.Attribute.pressedTranslationZ = global::Holy_Garden.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Xamarians.Media.Droid.Resource.Attribute.progressBarPadding = global::Holy_Garden.Droid.Resource.Attribute.progressBarPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.progressBarStyle = global::Holy_Garden.Droid.Resource.Attribute.progressBarStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.queryBackground = global::Holy_Garden.Droid.Resource.Attribute.queryBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.queryHint = global::Holy_Garden.Droid.Resource.Attribute.queryHint;
+			global::Xamarians.Media.Droid.Resource.Attribute.radioButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.radioButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.ratingBarStyle = global::Holy_Garden.Droid.Resource.Attribute.ratingBarStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.ratingBarStyleIndicator = global::Holy_Garden.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarians.Media.Droid.Resource.Attribute.ratingBarStyleSmall = global::Holy_Garden.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarians.Media.Droid.Resource.Attribute.reverseLayout = global::Holy_Garden.Droid.Resource.Attribute.reverseLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.rippleColor = global::Holy_Garden.Droid.Resource.Attribute.rippleColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.searchHintIcon = global::Holy_Garden.Droid.Resource.Attribute.searchHintIcon;
+			global::Xamarians.Media.Droid.Resource.Attribute.searchIcon = global::Holy_Garden.Droid.Resource.Attribute.searchIcon;
+			global::Xamarians.Media.Droid.Resource.Attribute.searchViewStyle = global::Holy_Garden.Droid.Resource.Attribute.searchViewStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.seekBarStyle = global::Holy_Garden.Droid.Resource.Attribute.seekBarStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.selectableItemBackground = global::Holy_Garden.Droid.Resource.Attribute.selectableItemBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::Holy_Garden.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarians.Media.Droid.Resource.Attribute.showAsAction = global::Holy_Garden.Droid.Resource.Attribute.showAsAction;
+			global::Xamarians.Media.Droid.Resource.Attribute.showDividers = global::Holy_Garden.Droid.Resource.Attribute.showDividers;
+			global::Xamarians.Media.Droid.Resource.Attribute.showText = global::Holy_Garden.Droid.Resource.Attribute.showText;
+			global::Xamarians.Media.Droid.Resource.Attribute.singleChoiceItemLayout = global::Holy_Garden.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.spanCount = global::Holy_Garden.Droid.Resource.Attribute.spanCount;
+			global::Xamarians.Media.Droid.Resource.Attribute.spinBars = global::Holy_Garden.Droid.Resource.Attribute.spinBars;
+			global::Xamarians.Media.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::Holy_Garden.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.spinnerStyle = global::Holy_Garden.Droid.Resource.Attribute.spinnerStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.splitTrack = global::Holy_Garden.Droid.Resource.Attribute.splitTrack;
+			global::Xamarians.Media.Droid.Resource.Attribute.srcCompat = global::Holy_Garden.Droid.Resource.Attribute.srcCompat;
+			global::Xamarians.Media.Droid.Resource.Attribute.stackFromEnd = global::Holy_Garden.Droid.Resource.Attribute.stackFromEnd;
+			global::Xamarians.Media.Droid.Resource.Attribute.state_above_anchor = global::Holy_Garden.Droid.Resource.Attribute.state_above_anchor;
+			global::Xamarians.Media.Droid.Resource.Attribute.statusBarBackground = global::Holy_Garden.Droid.Resource.Attribute.statusBarBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.statusBarScrim = global::Holy_Garden.Droid.Resource.Attribute.statusBarScrim;
+			global::Xamarians.Media.Droid.Resource.Attribute.submitBackground = global::Holy_Garden.Droid.Resource.Attribute.submitBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.subtitle = global::Holy_Garden.Droid.Resource.Attribute.subtitle;
+			global::Xamarians.Media.Droid.Resource.Attribute.subtitleTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.subtitleTextColor = global::Holy_Garden.Droid.Resource.Attribute.subtitleTextColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.subtitleTextStyle = global::Holy_Garden.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.suggestionRowLayout = global::Holy_Garden.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Xamarians.Media.Droid.Resource.Attribute.switchMinWidth = global::Holy_Garden.Droid.Resource.Attribute.switchMinWidth;
+			global::Xamarians.Media.Droid.Resource.Attribute.switchPadding = global::Holy_Garden.Droid.Resource.Attribute.switchPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.switchStyle = global::Holy_Garden.Droid.Resource.Attribute.switchStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.switchTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.switchTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabBackground = global::Holy_Garden.Droid.Resource.Attribute.tabBackground;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabContentStart = global::Holy_Garden.Droid.Resource.Attribute.tabContentStart;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabGravity = global::Holy_Garden.Droid.Resource.Attribute.tabGravity;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabIndicatorColor = global::Holy_Garden.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabIndicatorHeight = global::Holy_Garden.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabMaxWidth = global::Holy_Garden.Droid.Resource.Attribute.tabMaxWidth;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabMinWidth = global::Holy_Garden.Droid.Resource.Attribute.tabMinWidth;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabMode = global::Holy_Garden.Droid.Resource.Attribute.tabMode;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabPadding = global::Holy_Garden.Droid.Resource.Attribute.tabPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabPaddingBottom = global::Holy_Garden.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabPaddingEnd = global::Holy_Garden.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabPaddingStart = global::Holy_Garden.Droid.Resource.Attribute.tabPaddingStart;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabPaddingTop = global::Holy_Garden.Droid.Resource.Attribute.tabPaddingTop;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabSelectedTextColor = global::Holy_Garden.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.tabTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.tabTextColor = global::Holy_Garden.Droid.Resource.Attribute.tabTextColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.textAllCaps = global::Holy_Garden.Droid.Resource.Attribute.textAllCaps;
+			global::Xamarians.Media.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::Holy_Garden.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarians.Media.Droid.Resource.Attribute.textAppearanceListItem = global::Holy_Garden.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Xamarians.Media.Droid.Resource.Attribute.textAppearanceListItemSmall = global::Holy_Garden.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarians.Media.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Holy_Garden.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarians.Media.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::Holy_Garden.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarians.Media.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::Holy_Garden.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarians.Media.Droid.Resource.Attribute.textColorAlertDialogListItem = global::Holy_Garden.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarians.Media.Droid.Resource.Attribute.textColorSearchUrl = global::Holy_Garden.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Xamarians.Media.Droid.Resource.Attribute.theme = global::Holy_Garden.Droid.Resource.Attribute.theme;
+			global::Xamarians.Media.Droid.Resource.Attribute.thickness = global::Holy_Garden.Droid.Resource.Attribute.thickness;
+			global::Xamarians.Media.Droid.Resource.Attribute.thumbTextPadding = global::Holy_Garden.Droid.Resource.Attribute.thumbTextPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.title = global::Holy_Garden.Droid.Resource.Attribute.title;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleEnabled = global::Holy_Garden.Droid.Resource.Attribute.titleEnabled;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleMarginBottom = global::Holy_Garden.Droid.Resource.Attribute.titleMarginBottom;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleMarginEnd = global::Holy_Garden.Droid.Resource.Attribute.titleMarginEnd;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleMarginStart = global::Holy_Garden.Droid.Resource.Attribute.titleMarginStart;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleMarginTop = global::Holy_Garden.Droid.Resource.Attribute.titleMarginTop;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleMargins = global::Holy_Garden.Droid.Resource.Attribute.titleMargins;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleTextAppearance = global::Holy_Garden.Droid.Resource.Attribute.titleTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleTextColor = global::Holy_Garden.Droid.Resource.Attribute.titleTextColor;
+			global::Xamarians.Media.Droid.Resource.Attribute.titleTextStyle = global::Holy_Garden.Droid.Resource.Attribute.titleTextStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.toolbarId = global::Holy_Garden.Droid.Resource.Attribute.toolbarId;
+			global::Xamarians.Media.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::Holy_Garden.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.toolbarStyle = global::Holy_Garden.Droid.Resource.Attribute.toolbarStyle;
+			global::Xamarians.Media.Droid.Resource.Attribute.track = global::Holy_Garden.Droid.Resource.Attribute.track;
+			global::Xamarians.Media.Droid.Resource.Attribute.useCompatPadding = global::Holy_Garden.Droid.Resource.Attribute.useCompatPadding;
+			global::Xamarians.Media.Droid.Resource.Attribute.voiceIcon = global::Holy_Garden.Droid.Resource.Attribute.voiceIcon;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowActionBar = global::Holy_Garden.Droid.Resource.Attribute.windowActionBar;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowActionBarOverlay = global::Holy_Garden.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowActionModeOverlay = global::Holy_Garden.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowFixedHeightMajor = global::Holy_Garden.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowFixedHeightMinor = global::Holy_Garden.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowFixedWidthMajor = global::Holy_Garden.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowFixedWidthMinor = global::Holy_Garden.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowMinWidthMajor = global::Holy_Garden.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowMinWidthMinor = global::Holy_Garden.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarians.Media.Droid.Resource.Attribute.windowNoTitle = global::Holy_Garden.Droid.Resource.Attribute.windowNoTitle;
+			global::Xamarians.Media.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::Holy_Garden.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarians.Media.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Holy_Garden.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarians.Media.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Holy_Garden.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::Holy_Garden.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.abc_color_highlight_material = global::Holy_Garden.Droid.Resource.Color.abc_color_highlight_material;
+			global::Xamarians.Media.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::Holy_Garden.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::Holy_Garden.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.abc_primary_text_material_dark = global::Holy_Garden.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.abc_primary_text_material_light = global::Holy_Garden.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.abc_search_url_text = global::Holy_Garden.Droid.Resource.Color.abc_search_url_text;
+			global::Xamarians.Media.Droid.Resource.Color.abc_search_url_text_normal = global::Holy_Garden.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Xamarians.Media.Droid.Resource.Color.abc_search_url_text_pressed = global::Holy_Garden.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarians.Media.Droid.Resource.Color.abc_search_url_text_selected = global::Holy_Garden.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Xamarians.Media.Droid.Resource.Color.abc_secondary_text_material_dark = global::Holy_Garden.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.abc_secondary_text_material_light = global::Holy_Garden.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.accent_material_dark = global::Holy_Garden.Droid.Resource.Color.accent_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.accent_material_light = global::Holy_Garden.Droid.Resource.Color.accent_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.background_floating_material_dark = global::Holy_Garden.Droid.Resource.Color.background_floating_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.background_floating_material_light = global::Holy_Garden.Droid.Resource.Color.background_floating_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.background_material_dark = global::Holy_Garden.Droid.Resource.Color.background_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.background_material_light = global::Holy_Garden.Droid.Resource.Color.background_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::Holy_Garden.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.bright_foreground_disabled_material_light = global::Holy_Garden.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::Holy_Garden.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.bright_foreground_inverse_material_light = global::Holy_Garden.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.bright_foreground_material_dark = global::Holy_Garden.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.bright_foreground_material_light = global::Holy_Garden.Droid.Resource.Color.bright_foreground_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.button_material_dark = global::Holy_Garden.Droid.Resource.Color.button_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.button_material_light = global::Holy_Garden.Droid.Resource.Color.button_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.cardview_dark_background = global::Holy_Garden.Droid.Resource.Color.cardview_dark_background;
+			global::Xamarians.Media.Droid.Resource.Color.cardview_light_background = global::Holy_Garden.Droid.Resource.Color.cardview_light_background;
+			global::Xamarians.Media.Droid.Resource.Color.cardview_shadow_end_color = global::Holy_Garden.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Xamarians.Media.Droid.Resource.Color.cardview_shadow_start_color = global::Holy_Garden.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Xamarians.Media.Droid.Resource.Color.design_fab_shadow_end_color = global::Holy_Garden.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarians.Media.Droid.Resource.Color.design_fab_shadow_mid_color = global::Holy_Garden.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarians.Media.Droid.Resource.Color.design_fab_shadow_start_color = global::Holy_Garden.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarians.Media.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::Holy_Garden.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarians.Media.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::Holy_Garden.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarians.Media.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::Holy_Garden.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarians.Media.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::Holy_Garden.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarians.Media.Droid.Resource.Color.design_snackbar_background_color = global::Holy_Garden.Droid.Resource.Color.design_snackbar_background_color;
+			global::Xamarians.Media.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::Holy_Garden.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.dim_foreground_disabled_material_light = global::Holy_Garden.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.dim_foreground_material_dark = global::Holy_Garden.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.dim_foreground_material_light = global::Holy_Garden.Droid.Resource.Color.dim_foreground_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.foreground_material_dark = global::Holy_Garden.Droid.Resource.Color.foreground_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.foreground_material_light = global::Holy_Garden.Droid.Resource.Color.foreground_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.highlighted_text_material_dark = global::Holy_Garden.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.highlighted_text_material_light = global::Holy_Garden.Droid.Resource.Color.highlighted_text_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.material_blue_grey_800 = global::Holy_Garden.Droid.Resource.Color.material_blue_grey_800;
+			global::Xamarians.Media.Droid.Resource.Color.material_blue_grey_900 = global::Holy_Garden.Droid.Resource.Color.material_blue_grey_900;
+			global::Xamarians.Media.Droid.Resource.Color.material_blue_grey_950 = global::Holy_Garden.Droid.Resource.Color.material_blue_grey_950;
+			global::Xamarians.Media.Droid.Resource.Color.material_deep_teal_200 = global::Holy_Garden.Droid.Resource.Color.material_deep_teal_200;
+			global::Xamarians.Media.Droid.Resource.Color.material_deep_teal_500 = global::Holy_Garden.Droid.Resource.Color.material_deep_teal_500;
+			global::Xamarians.Media.Droid.Resource.Color.material_grey_100 = global::Holy_Garden.Droid.Resource.Color.material_grey_100;
+			global::Xamarians.Media.Droid.Resource.Color.material_grey_300 = global::Holy_Garden.Droid.Resource.Color.material_grey_300;
+			global::Xamarians.Media.Droid.Resource.Color.material_grey_50 = global::Holy_Garden.Droid.Resource.Color.material_grey_50;
+			global::Xamarians.Media.Droid.Resource.Color.material_grey_600 = global::Holy_Garden.Droid.Resource.Color.material_grey_600;
+			global::Xamarians.Media.Droid.Resource.Color.material_grey_800 = global::Holy_Garden.Droid.Resource.Color.material_grey_800;
+			global::Xamarians.Media.Droid.Resource.Color.material_grey_850 = global::Holy_Garden.Droid.Resource.Color.material_grey_850;
+			global::Xamarians.Media.Droid.Resource.Color.material_grey_900 = global::Holy_Garden.Droid.Resource.Color.material_grey_900;
+			global::Xamarians.Media.Droid.Resource.Color.primary_dark_material_dark = global::Holy_Garden.Droid.Resource.Color.primary_dark_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.primary_dark_material_light = global::Holy_Garden.Droid.Resource.Color.primary_dark_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.primary_material_dark = global::Holy_Garden.Droid.Resource.Color.primary_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.primary_material_light = global::Holy_Garden.Droid.Resource.Color.primary_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.primary_text_default_material_dark = global::Holy_Garden.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.primary_text_default_material_light = global::Holy_Garden.Droid.Resource.Color.primary_text_default_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.primary_text_disabled_material_dark = global::Holy_Garden.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.primary_text_disabled_material_light = global::Holy_Garden.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.ripple_material_dark = global::Holy_Garden.Droid.Resource.Color.ripple_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.ripple_material_light = global::Holy_Garden.Droid.Resource.Color.ripple_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.secondary_text_default_material_dark = global::Holy_Garden.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.secondary_text_default_material_light = global::Holy_Garden.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.secondary_text_disabled_material_dark = global::Holy_Garden.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.secondary_text_disabled_material_light = global::Holy_Garden.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::Holy_Garden.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.switch_thumb_disabled_material_light = global::Holy_Garden.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.switch_thumb_material_dark = global::Holy_Garden.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.switch_thumb_material_light = global::Holy_Garden.Droid.Resource.Color.switch_thumb_material_light;
+			global::Xamarians.Media.Droid.Resource.Color.switch_thumb_normal_material_dark = global::Holy_Garden.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarians.Media.Droid.Resource.Color.switch_thumb_normal_material_light = global::Holy_Garden.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_button_min_height_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_button_min_width_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Holy_Garden.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Holy_Garden.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::Holy_Garden.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::Holy_Garden.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::Holy_Garden.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::Holy_Garden.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::Holy_Garden.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_control_corner_material = global::Holy_Garden.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_control_inset_material = global::Holy_Garden.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_control_padding_material = global::Holy_Garden.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::Holy_Garden.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::Holy_Garden.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::Holy_Garden.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::Holy_Garden.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dialog_min_width_major = global::Holy_Garden.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::Holy_Garden.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dialog_padding_material = global::Holy_Garden.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::Holy_Garden.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::Holy_Garden.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::Holy_Garden.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::Holy_Garden.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Holy_Garden.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Holy_Garden.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Holy_Garden.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Holy_Garden.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::Holy_Garden.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_floating_window_z = global::Holy_Garden.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Holy_Garden.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_panel_menu_list_width = global::Holy_Garden.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_search_view_preferred_width = global::Holy_Garden.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::Holy_Garden.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Holy_Garden.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::Holy_Garden.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_switch_padding = global::Holy_Garden.Droid.Resource.Dimension.abc_switch_padding;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_body_1_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_body_2_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_button_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_caption_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_display_1_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_display_2_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_display_3_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_display_4_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_headline_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_large_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_medium_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_menu_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_small_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_subhead_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_title_material = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarians.Media.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::Holy_Garden.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarians.Media.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::Holy_Garden.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarians.Media.Droid.Resource.Dimension.cardview_default_elevation = global::Holy_Garden.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Xamarians.Media.Droid.Resource.Dimension.cardview_default_radius = global::Holy_Garden.Droid.Resource.Dimension.cardview_default_radius;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_appbar_elevation = global::Holy_Garden.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Holy_Garden.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_fab_border_width = global::Holy_Garden.Droid.Resource.Dimension.design_fab_border_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_fab_elevation = global::Holy_Garden.Droid.Resource.Dimension.design_fab_elevation;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_fab_image_size = global::Holy_Garden.Droid.Resource.Dimension.design_fab_image_size;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_fab_size_mini = global::Holy_Garden.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_fab_size_normal = global::Holy_Garden.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::Holy_Garden.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_navigation_elevation = global::Holy_Garden.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_navigation_icon_padding = global::Holy_Garden.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_navigation_icon_size = global::Holy_Garden.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_navigation_max_width = global::Holy_Garden.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_navigation_padding_bottom = global::Holy_Garden.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::Holy_Garden.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_elevation = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_max_width = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_min_width = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_snackbar_text_size = global::Holy_Garden.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_tab_max_width = global::Holy_Garden.Droid.Resource.Dimension.design_tab_max_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::Holy_Garden.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_tab_text_size = global::Holy_Garden.Droid.Resource.Dimension.design_tab_text_size;
+			global::Xamarians.Media.Droid.Resource.Dimension.design_tab_text_size_2line = global::Holy_Garden.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarians.Media.Droid.Resource.Dimension.disabled_alpha_material_dark = global::Holy_Garden.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarians.Media.Droid.Resource.Dimension.disabled_alpha_material_light = global::Holy_Garden.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarians.Media.Droid.Resource.Dimension.highlight_alpha_material_colored = global::Holy_Garden.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarians.Media.Droid.Resource.Dimension.highlight_alpha_material_dark = global::Holy_Garden.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarians.Media.Droid.Resource.Dimension.highlight_alpha_material_light = global::Holy_Garden.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarians.Media.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Holy_Garden.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarians.Media.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Holy_Garden.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarians.Media.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Holy_Garden.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarians.Media.Droid.Resource.Dimension.notification_large_icon_height = global::Holy_Garden.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Xamarians.Media.Droid.Resource.Dimension.notification_large_icon_width = global::Holy_Garden.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Xamarians.Media.Droid.Resource.Dimension.notification_subtext_size = global::Holy_Garden.Droid.Resource.Dimension.notification_subtext_size;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::Holy_Garden.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_borderless_material = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_check_material = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_colored_material = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_radio_material = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Holy_Garden.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::Holy_Garden.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_cab_background_top_material = global::Holy_Garden.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_control_background_material = global::Holy_Garden.Droid.Resource.Drawable.abc_control_background_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_edit_text_material = global::Holy_Garden.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_item_background_holo_dark = global::Holy_Garden.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_item_background_holo_light = global::Holy_Garden.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_focused_holo = global::Holy_Garden.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_longpressed_holo = global::Holy_Garden.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::Holy_Garden.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::Holy_Garden.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Holy_Garden.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Holy_Garden.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Holy_Garden.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Holy_Garden.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::Holy_Garden.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_list_selector_holo_light = global::Holy_Garden.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Holy_Garden.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::Holy_Garden.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::Holy_Garden.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_ratingbar_small_material = global::Holy_Garden.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Holy_Garden.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Holy_Garden.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::Holy_Garden.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_seekbar_track_material = global::Holy_Garden.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::Holy_Garden.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_switch_thumb_material = global::Holy_Garden.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_tab_indicator_material = global::Holy_Garden.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_text_cursor_material = global::Holy_Garden.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Holy_Garden.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarians.Media.Droid.Resource.Drawable.abc_textfield_search_material = global::Holy_Garden.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarians.Media.Droid.Resource.Drawable.design_fab_background = global::Holy_Garden.Droid.Resource.Drawable.design_fab_background;
+			global::Xamarians.Media.Droid.Resource.Drawable.design_snackbar_background = global::Holy_Garden.Droid.Resource.Drawable.design_snackbar_background;
+			global::Xamarians.Media.Droid.Resource.Drawable.notification_template_icon_bg = global::Holy_Garden.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarians.Media.Droid.Resource.Id.action0 = global::Holy_Garden.Droid.Resource.Id.action0;
+			global::Xamarians.Media.Droid.Resource.Id.action_bar = global::Holy_Garden.Droid.Resource.Id.action_bar;
+			global::Xamarians.Media.Droid.Resource.Id.action_bar_activity_content = global::Holy_Garden.Droid.Resource.Id.action_bar_activity_content;
+			global::Xamarians.Media.Droid.Resource.Id.action_bar_container = global::Holy_Garden.Droid.Resource.Id.action_bar_container;
+			global::Xamarians.Media.Droid.Resource.Id.action_bar_root = global::Holy_Garden.Droid.Resource.Id.action_bar_root;
+			global::Xamarians.Media.Droid.Resource.Id.action_bar_spinner = global::Holy_Garden.Droid.Resource.Id.action_bar_spinner;
+			global::Xamarians.Media.Droid.Resource.Id.action_bar_subtitle = global::Holy_Garden.Droid.Resource.Id.action_bar_subtitle;
+			global::Xamarians.Media.Droid.Resource.Id.action_bar_title = global::Holy_Garden.Droid.Resource.Id.action_bar_title;
+			global::Xamarians.Media.Droid.Resource.Id.action_context_bar = global::Holy_Garden.Droid.Resource.Id.action_context_bar;
+			global::Xamarians.Media.Droid.Resource.Id.action_divider = global::Holy_Garden.Droid.Resource.Id.action_divider;
+			global::Xamarians.Media.Droid.Resource.Id.action_menu_divider = global::Holy_Garden.Droid.Resource.Id.action_menu_divider;
+			global::Xamarians.Media.Droid.Resource.Id.action_menu_presenter = global::Holy_Garden.Droid.Resource.Id.action_menu_presenter;
+			global::Xamarians.Media.Droid.Resource.Id.action_mode_bar = global::Holy_Garden.Droid.Resource.Id.action_mode_bar;
+			global::Xamarians.Media.Droid.Resource.Id.action_mode_bar_stub = global::Holy_Garden.Droid.Resource.Id.action_mode_bar_stub;
+			global::Xamarians.Media.Droid.Resource.Id.action_mode_close_button = global::Holy_Garden.Droid.Resource.Id.action_mode_close_button;
+			global::Xamarians.Media.Droid.Resource.Id.activity_chooser_view_content = global::Holy_Garden.Droid.Resource.Id.activity_chooser_view_content;
+			global::Xamarians.Media.Droid.Resource.Id.alertTitle = global::Holy_Garden.Droid.Resource.Id.alertTitle;
+			global::Xamarians.Media.Droid.Resource.Id.always = global::Holy_Garden.Droid.Resource.Id.always;
+			global::Xamarians.Media.Droid.Resource.Id.beginning = global::Holy_Garden.Droid.Resource.Id.beginning;
+			global::Xamarians.Media.Droid.Resource.Id.bottom = global::Holy_Garden.Droid.Resource.Id.bottom;
+			global::Xamarians.Media.Droid.Resource.Id.buttonPanel = global::Holy_Garden.Droid.Resource.Id.buttonPanel;
+			global::Xamarians.Media.Droid.Resource.Id.cancel_action = global::Holy_Garden.Droid.Resource.Id.cancel_action;
+			global::Xamarians.Media.Droid.Resource.Id.center = global::Holy_Garden.Droid.Resource.Id.center;
+			global::Xamarians.Media.Droid.Resource.Id.center_horizontal = global::Holy_Garden.Droid.Resource.Id.center_horizontal;
+			global::Xamarians.Media.Droid.Resource.Id.center_vertical = global::Holy_Garden.Droid.Resource.Id.center_vertical;
+			global::Xamarians.Media.Droid.Resource.Id.checkbox = global::Holy_Garden.Droid.Resource.Id.checkbox;
+			global::Xamarians.Media.Droid.Resource.Id.chronometer = global::Holy_Garden.Droid.Resource.Id.chronometer;
+			global::Xamarians.Media.Droid.Resource.Id.clip_horizontal = global::Holy_Garden.Droid.Resource.Id.clip_horizontal;
+			global::Xamarians.Media.Droid.Resource.Id.clip_vertical = global::Holy_Garden.Droid.Resource.Id.clip_vertical;
+			global::Xamarians.Media.Droid.Resource.Id.collapseActionView = global::Holy_Garden.Droid.Resource.Id.collapseActionView;
+			global::Xamarians.Media.Droid.Resource.Id.contentPanel = global::Holy_Garden.Droid.Resource.Id.contentPanel;
+			global::Xamarians.Media.Droid.Resource.Id.custom = global::Holy_Garden.Droid.Resource.Id.custom;
+			global::Xamarians.Media.Droid.Resource.Id.customPanel = global::Holy_Garden.Droid.Resource.Id.customPanel;
+			global::Xamarians.Media.Droid.Resource.Id.decor_content_parent = global::Holy_Garden.Droid.Resource.Id.decor_content_parent;
+			global::Xamarians.Media.Droid.Resource.Id.default_activity_button = global::Holy_Garden.Droid.Resource.Id.default_activity_button;
+			global::Xamarians.Media.Droid.Resource.Id.design_bottom_sheet = global::Holy_Garden.Droid.Resource.Id.design_bottom_sheet;
+			global::Xamarians.Media.Droid.Resource.Id.design_menu_item_action_area = global::Holy_Garden.Droid.Resource.Id.design_menu_item_action_area;
+			global::Xamarians.Media.Droid.Resource.Id.design_menu_item_action_area_stub = global::Holy_Garden.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarians.Media.Droid.Resource.Id.design_menu_item_text = global::Holy_Garden.Droid.Resource.Id.design_menu_item_text;
+			global::Xamarians.Media.Droid.Resource.Id.design_navigation_view = global::Holy_Garden.Droid.Resource.Id.design_navigation_view;
+			global::Xamarians.Media.Droid.Resource.Id.disableHome = global::Holy_Garden.Droid.Resource.Id.disableHome;
+			global::Xamarians.Media.Droid.Resource.Id.edit_query = global::Holy_Garden.Droid.Resource.Id.edit_query;
+			global::Xamarians.Media.Droid.Resource.Id.end = global::Holy_Garden.Droid.Resource.Id.end;
+			global::Xamarians.Media.Droid.Resource.Id.end_padder = global::Holy_Garden.Droid.Resource.Id.end_padder;
+			global::Xamarians.Media.Droid.Resource.Id.enterAlways = global::Holy_Garden.Droid.Resource.Id.enterAlways;
+			global::Xamarians.Media.Droid.Resource.Id.enterAlwaysCollapsed = global::Holy_Garden.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarians.Media.Droid.Resource.Id.exitUntilCollapsed = global::Holy_Garden.Droid.Resource.Id.exitUntilCollapsed;
+			global::Xamarians.Media.Droid.Resource.Id.expand_activities_button = global::Holy_Garden.Droid.Resource.Id.expand_activities_button;
+			global::Xamarians.Media.Droid.Resource.Id.expanded_menu = global::Holy_Garden.Droid.Resource.Id.expanded_menu;
+			global::Xamarians.Media.Droid.Resource.Id.fill = global::Holy_Garden.Droid.Resource.Id.fill;
+			global::Xamarians.Media.Droid.Resource.Id.fill_horizontal = global::Holy_Garden.Droid.Resource.Id.fill_horizontal;
+			global::Xamarians.Media.Droid.Resource.Id.fill_vertical = global::Holy_Garden.Droid.Resource.Id.fill_vertical;
+			global::Xamarians.Media.Droid.Resource.Id.@fixed = global::Holy_Garden.Droid.Resource.Id.@fixed;
+			global::Xamarians.Media.Droid.Resource.Id.home = global::Holy_Garden.Droid.Resource.Id.home;
+			global::Xamarians.Media.Droid.Resource.Id.homeAsUp = global::Holy_Garden.Droid.Resource.Id.homeAsUp;
+			global::Xamarians.Media.Droid.Resource.Id.icon = global::Holy_Garden.Droid.Resource.Id.icon;
+			global::Xamarians.Media.Droid.Resource.Id.ifRoom = global::Holy_Garden.Droid.Resource.Id.ifRoom;
+			global::Xamarians.Media.Droid.Resource.Id.image = global::Holy_Garden.Droid.Resource.Id.image;
+			global::Xamarians.Media.Droid.Resource.Id.info = global::Holy_Garden.Droid.Resource.Id.info;
+			global::Xamarians.Media.Droid.Resource.Id.item_touch_helper_previous_elevation = global::Holy_Garden.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarians.Media.Droid.Resource.Id.left = global::Holy_Garden.Droid.Resource.Id.left;
+			global::Xamarians.Media.Droid.Resource.Id.line1 = global::Holy_Garden.Droid.Resource.Id.line1;
+			global::Xamarians.Media.Droid.Resource.Id.line3 = global::Holy_Garden.Droid.Resource.Id.line3;
+			global::Xamarians.Media.Droid.Resource.Id.listMode = global::Holy_Garden.Droid.Resource.Id.listMode;
+			global::Xamarians.Media.Droid.Resource.Id.list_item = global::Holy_Garden.Droid.Resource.Id.list_item;
+			global::Xamarians.Media.Droid.Resource.Id.media_actions = global::Holy_Garden.Droid.Resource.Id.media_actions;
+			global::Xamarians.Media.Droid.Resource.Id.middle = global::Holy_Garden.Droid.Resource.Id.middle;
+			global::Xamarians.Media.Droid.Resource.Id.mini = global::Holy_Garden.Droid.Resource.Id.mini;
+			global::Xamarians.Media.Droid.Resource.Id.multiply = global::Holy_Garden.Droid.Resource.Id.multiply;
+			global::Xamarians.Media.Droid.Resource.Id.navigation_header_container = global::Holy_Garden.Droid.Resource.Id.navigation_header_container;
+			global::Xamarians.Media.Droid.Resource.Id.never = global::Holy_Garden.Droid.Resource.Id.never;
+			global::Xamarians.Media.Droid.Resource.Id.none = global::Holy_Garden.Droid.Resource.Id.none;
+			global::Xamarians.Media.Droid.Resource.Id.normal = global::Holy_Garden.Droid.Resource.Id.normal;
+			global::Xamarians.Media.Droid.Resource.Id.parallax = global::Holy_Garden.Droid.Resource.Id.parallax;
+			global::Xamarians.Media.Droid.Resource.Id.parentPanel = global::Holy_Garden.Droid.Resource.Id.parentPanel;
+			global::Xamarians.Media.Droid.Resource.Id.pin = global::Holy_Garden.Droid.Resource.Id.pin;
+			global::Xamarians.Media.Droid.Resource.Id.progress_circular = global::Holy_Garden.Droid.Resource.Id.progress_circular;
+			global::Xamarians.Media.Droid.Resource.Id.progress_horizontal = global::Holy_Garden.Droid.Resource.Id.progress_horizontal;
+			global::Xamarians.Media.Droid.Resource.Id.radio = global::Holy_Garden.Droid.Resource.Id.radio;
+			global::Xamarians.Media.Droid.Resource.Id.right = global::Holy_Garden.Droid.Resource.Id.right;
+			global::Xamarians.Media.Droid.Resource.Id.screen = global::Holy_Garden.Droid.Resource.Id.screen;
+			global::Xamarians.Media.Droid.Resource.Id.scroll = global::Holy_Garden.Droid.Resource.Id.scroll;
+			global::Xamarians.Media.Droid.Resource.Id.scrollIndicatorDown = global::Holy_Garden.Droid.Resource.Id.scrollIndicatorDown;
+			global::Xamarians.Media.Droid.Resource.Id.scrollIndicatorUp = global::Holy_Garden.Droid.Resource.Id.scrollIndicatorUp;
+			global::Xamarians.Media.Droid.Resource.Id.scrollView = global::Holy_Garden.Droid.Resource.Id.scrollView;
+			global::Xamarians.Media.Droid.Resource.Id.scrollable = global::Holy_Garden.Droid.Resource.Id.scrollable;
+			global::Xamarians.Media.Droid.Resource.Id.search_badge = global::Holy_Garden.Droid.Resource.Id.search_badge;
+			global::Xamarians.Media.Droid.Resource.Id.search_bar = global::Holy_Garden.Droid.Resource.Id.search_bar;
+			global::Xamarians.Media.Droid.Resource.Id.search_button = global::Holy_Garden.Droid.Resource.Id.search_button;
+			global::Xamarians.Media.Droid.Resource.Id.search_close_btn = global::Holy_Garden.Droid.Resource.Id.search_close_btn;
+			global::Xamarians.Media.Droid.Resource.Id.search_edit_frame = global::Holy_Garden.Droid.Resource.Id.search_edit_frame;
+			global::Xamarians.Media.Droid.Resource.Id.search_go_btn = global::Holy_Garden.Droid.Resource.Id.search_go_btn;
+			global::Xamarians.Media.Droid.Resource.Id.search_mag_icon = global::Holy_Garden.Droid.Resource.Id.search_mag_icon;
+			global::Xamarians.Media.Droid.Resource.Id.search_plate = global::Holy_Garden.Droid.Resource.Id.search_plate;
+			global::Xamarians.Media.Droid.Resource.Id.search_src_text = global::Holy_Garden.Droid.Resource.Id.search_src_text;
+			global::Xamarians.Media.Droid.Resource.Id.search_voice_btn = global::Holy_Garden.Droid.Resource.Id.search_voice_btn;
+			global::Xamarians.Media.Droid.Resource.Id.select_dialog_listview = global::Holy_Garden.Droid.Resource.Id.select_dialog_listview;
+			global::Xamarians.Media.Droid.Resource.Id.shortcut = global::Holy_Garden.Droid.Resource.Id.shortcut;
+			global::Xamarians.Media.Droid.Resource.Id.showCustom = global::Holy_Garden.Droid.Resource.Id.showCustom;
+			global::Xamarians.Media.Droid.Resource.Id.showHome = global::Holy_Garden.Droid.Resource.Id.showHome;
+			global::Xamarians.Media.Droid.Resource.Id.showTitle = global::Holy_Garden.Droid.Resource.Id.showTitle;
+			global::Xamarians.Media.Droid.Resource.Id.snackbar_action = global::Holy_Garden.Droid.Resource.Id.snackbar_action;
+			global::Xamarians.Media.Droid.Resource.Id.snackbar_text = global::Holy_Garden.Droid.Resource.Id.snackbar_text;
+			global::Xamarians.Media.Droid.Resource.Id.snap = global::Holy_Garden.Droid.Resource.Id.snap;
+			global::Xamarians.Media.Droid.Resource.Id.spacer = global::Holy_Garden.Droid.Resource.Id.spacer;
+			global::Xamarians.Media.Droid.Resource.Id.split_action_bar = global::Holy_Garden.Droid.Resource.Id.split_action_bar;
+			global::Xamarians.Media.Droid.Resource.Id.src_atop = global::Holy_Garden.Droid.Resource.Id.src_atop;
+			global::Xamarians.Media.Droid.Resource.Id.src_in = global::Holy_Garden.Droid.Resource.Id.src_in;
+			global::Xamarians.Media.Droid.Resource.Id.src_over = global::Holy_Garden.Droid.Resource.Id.src_over;
+			global::Xamarians.Media.Droid.Resource.Id.start = global::Holy_Garden.Droid.Resource.Id.start;
+			global::Xamarians.Media.Droid.Resource.Id.status_bar_latest_event_content = global::Holy_Garden.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Xamarians.Media.Droid.Resource.Id.submit_area = global::Holy_Garden.Droid.Resource.Id.submit_area;
+			global::Xamarians.Media.Droid.Resource.Id.tabMode = global::Holy_Garden.Droid.Resource.Id.tabMode;
+			global::Xamarians.Media.Droid.Resource.Id.text = global::Holy_Garden.Droid.Resource.Id.text;
+			global::Xamarians.Media.Droid.Resource.Id.text2 = global::Holy_Garden.Droid.Resource.Id.text2;
+			global::Xamarians.Media.Droid.Resource.Id.textSpacerNoButtons = global::Holy_Garden.Droid.Resource.Id.textSpacerNoButtons;
+			global::Xamarians.Media.Droid.Resource.Id.time = global::Holy_Garden.Droid.Resource.Id.time;
+			global::Xamarians.Media.Droid.Resource.Id.title = global::Holy_Garden.Droid.Resource.Id.title;
+			global::Xamarians.Media.Droid.Resource.Id.title_template = global::Holy_Garden.Droid.Resource.Id.title_template;
+			global::Xamarians.Media.Droid.Resource.Id.top = global::Holy_Garden.Droid.Resource.Id.top;
+			global::Xamarians.Media.Droid.Resource.Id.topPanel = global::Holy_Garden.Droid.Resource.Id.topPanel;
+			global::Xamarians.Media.Droid.Resource.Id.touch_outside = global::Holy_Garden.Droid.Resource.Id.touch_outside;
+			global::Xamarians.Media.Droid.Resource.Id.up = global::Holy_Garden.Droid.Resource.Id.up;
+			global::Xamarians.Media.Droid.Resource.Id.useLogo = global::Holy_Garden.Droid.Resource.Id.useLogo;
+			global::Xamarians.Media.Droid.Resource.Id.view_offset_helper = global::Holy_Garden.Droid.Resource.Id.view_offset_helper;
+			global::Xamarians.Media.Droid.Resource.Id.withText = global::Holy_Garden.Droid.Resource.Id.withText;
+			global::Xamarians.Media.Droid.Resource.Id.wrap_content = global::Holy_Garden.Droid.Resource.Id.wrap_content;
+			global::Xamarians.Media.Droid.Resource.Integer.abc_config_activityDefaultDur = global::Holy_Garden.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarians.Media.Droid.Resource.Integer.abc_config_activityShortDur = global::Holy_Garden.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarians.Media.Droid.Resource.Integer.bottom_sheet_slide_duration = global::Holy_Garden.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarians.Media.Droid.Resource.Integer.cancel_button_image_alpha = global::Holy_Garden.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarians.Media.Droid.Resource.Integer.design_snackbar_text_max_lines = global::Holy_Garden.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarians.Media.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::Holy_Garden.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_action_bar_title_item = global::Holy_Garden.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_action_bar_up_container = global::Holy_Garden.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_action_menu_item_layout = global::Holy_Garden.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_action_menu_layout = global::Holy_Garden.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_action_mode_bar = global::Holy_Garden.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_action_mode_close_item_material = global::Holy_Garden.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_activity_chooser_view = global::Holy_Garden.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::Holy_Garden.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::Holy_Garden.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_alert_dialog_material = global::Holy_Garden.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_dialog_title_material = global::Holy_Garden.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_expanded_menu_layout = global::Holy_Garden.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::Holy_Garden.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_list_menu_item_icon = global::Holy_Garden.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_list_menu_item_layout = global::Holy_Garden.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_list_menu_item_radio = global::Holy_Garden.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_popup_menu_item_layout = global::Holy_Garden.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_screen_content_include = global::Holy_Garden.Droid.Resource.Layout.abc_screen_content_include;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_screen_simple = global::Holy_Garden.Droid.Resource.Layout.abc_screen_simple;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Holy_Garden.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_screen_toolbar = global::Holy_Garden.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Holy_Garden.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_search_view = global::Holy_Garden.Droid.Resource.Layout.abc_search_view;
+			global::Xamarians.Media.Droid.Resource.Layout.abc_select_dialog_material = global::Holy_Garden.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Xamarians.Media.Droid.Resource.Layout.design_bottom_sheet_dialog = global::Holy_Garden.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarians.Media.Droid.Resource.Layout.design_layout_snackbar = global::Holy_Garden.Droid.Resource.Layout.design_layout_snackbar;
+			global::Xamarians.Media.Droid.Resource.Layout.design_layout_snackbar_include = global::Holy_Garden.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarians.Media.Droid.Resource.Layout.design_layout_tab_icon = global::Holy_Garden.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Xamarians.Media.Droid.Resource.Layout.design_layout_tab_text = global::Holy_Garden.Droid.Resource.Layout.design_layout_tab_text;
+			global::Xamarians.Media.Droid.Resource.Layout.design_menu_item_action_area = global::Holy_Garden.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Xamarians.Media.Droid.Resource.Layout.design_navigation_item = global::Holy_Garden.Droid.Resource.Layout.design_navigation_item;
+			global::Xamarians.Media.Droid.Resource.Layout.design_navigation_item_header = global::Holy_Garden.Droid.Resource.Layout.design_navigation_item_header;
+			global::Xamarians.Media.Droid.Resource.Layout.design_navigation_item_separator = global::Holy_Garden.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Xamarians.Media.Droid.Resource.Layout.design_navigation_item_subheader = global::Holy_Garden.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarians.Media.Droid.Resource.Layout.design_navigation_menu = global::Holy_Garden.Droid.Resource.Layout.design_navigation_menu;
+			global::Xamarians.Media.Droid.Resource.Layout.design_navigation_menu_item = global::Holy_Garden.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Xamarians.Media.Droid.Resource.Layout.notification_media_action = global::Holy_Garden.Droid.Resource.Layout.notification_media_action;
+			global::Xamarians.Media.Droid.Resource.Layout.notification_media_cancel_action = global::Holy_Garden.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Xamarians.Media.Droid.Resource.Layout.notification_template_big_media = global::Holy_Garden.Droid.Resource.Layout.notification_template_big_media;
+			global::Xamarians.Media.Droid.Resource.Layout.notification_template_big_media_narrow = global::Holy_Garden.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarians.Media.Droid.Resource.Layout.notification_template_media = global::Holy_Garden.Droid.Resource.Layout.notification_template_media;
+			global::Xamarians.Media.Droid.Resource.Layout.notification_template_part_chronometer = global::Holy_Garden.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarians.Media.Droid.Resource.Layout.notification_template_part_time = global::Holy_Garden.Droid.Resource.Layout.notification_template_part_time;
+			global::Xamarians.Media.Droid.Resource.Layout.select_dialog_item_material = global::Holy_Garden.Droid.Resource.Layout.select_dialog_item_material;
+			global::Xamarians.Media.Droid.Resource.Layout.select_dialog_multichoice_material = global::Holy_Garden.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarians.Media.Droid.Resource.Layout.select_dialog_singlechoice_material = global::Holy_Garden.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarians.Media.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::Holy_Garden.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarians.Media.Droid.Resource.String.ApplicationName = global::Holy_Garden.Droid.Resource.String.ApplicationName;
+			global::Xamarians.Media.Droid.Resource.String.Hello = global::Holy_Garden.Droid.Resource.String.Hello;
+			global::Xamarians.Media.Droid.Resource.String.abc_action_bar_home_description = global::Holy_Garden.Droid.Resource.String.abc_action_bar_home_description;
+			global::Xamarians.Media.Droid.Resource.String.abc_action_bar_up_description = global::Holy_Garden.Droid.Resource.String.abc_action_bar_up_description;
+			global::Xamarians.Media.Droid.Resource.String.abc_action_menu_overflow_description = global::Holy_Garden.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarians.Media.Droid.Resource.String.abc_action_mode_done = global::Holy_Garden.Droid.Resource.String.abc_action_mode_done;
+			global::Xamarians.Media.Droid.Resource.String.abc_activity_chooser_view_see_all = global::Holy_Garden.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarians.Media.Droid.Resource.String.abc_activitychooserview_choose_application = global::Holy_Garden.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarians.Media.Droid.Resource.String.abc_capital_off = global::Holy_Garden.Droid.Resource.String.abc_capital_off;
+			global::Xamarians.Media.Droid.Resource.String.abc_capital_on = global::Holy_Garden.Droid.Resource.String.abc_capital_on;
+			global::Xamarians.Media.Droid.Resource.String.abc_search_hint = global::Holy_Garden.Droid.Resource.String.abc_search_hint;
+			global::Xamarians.Media.Droid.Resource.String.abc_searchview_description_clear = global::Holy_Garden.Droid.Resource.String.abc_searchview_description_clear;
+			global::Xamarians.Media.Droid.Resource.String.abc_searchview_description_query = global::Holy_Garden.Droid.Resource.String.abc_searchview_description_query;
+			global::Xamarians.Media.Droid.Resource.String.abc_searchview_description_search = global::Holy_Garden.Droid.Resource.String.abc_searchview_description_search;
+			global::Xamarians.Media.Droid.Resource.String.abc_searchview_description_submit = global::Holy_Garden.Droid.Resource.String.abc_searchview_description_submit;
+			global::Xamarians.Media.Droid.Resource.String.abc_searchview_description_voice = global::Holy_Garden.Droid.Resource.String.abc_searchview_description_voice;
+			global::Xamarians.Media.Droid.Resource.String.abc_shareactionprovider_share_with = global::Holy_Garden.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarians.Media.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::Holy_Garden.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarians.Media.Droid.Resource.String.abc_toolbar_collapse_description = global::Holy_Garden.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarians.Media.Droid.Resource.String.appbar_scrolling_view_behavior = global::Holy_Garden.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarians.Media.Droid.Resource.String.bottom_sheet_behavior = global::Holy_Garden.Droid.Resource.String.bottom_sheet_behavior;
+			global::Xamarians.Media.Droid.Resource.String.character_counter_pattern = global::Holy_Garden.Droid.Resource.String.character_counter_pattern;
+			global::Xamarians.Media.Droid.Resource.String.status_bar_notification_info_overflow = global::Holy_Garden.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarians.Media.Droid.Resource.Style.AlertDialog_AppCompat = global::Holy_Garden.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Animation_AppCompat_Dialog = global::Holy_Garden.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::Holy_Garden.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarians.Media.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::Holy_Garden.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::Holy_Garden.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Holy_Garden.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarians.Media.Droid.Resource.Style.Base_CardView = global::Holy_Garden.Droid.Resource.Style.Base_CardView;
+			global::Xamarians.Media.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Holy_Garden.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Holy_Garden.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarians.Media.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Holy_Garden.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Holy_Garden.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarians.Media.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Holy_Garden.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Holy_Garden.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Holy_Garden.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::Holy_Garden.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Holy_Garden.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Holy_Garden.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Holy_Garden.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarians.Media.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Holy_Garden.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Holy_Garden.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarians.Media.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::Holy_Garden.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarians.Media.Droid.Resource.Style.CardView = global::Holy_Garden.Droid.Resource.Style.CardView;
+			global::Xamarians.Media.Droid.Resource.Style.CardView_Dark = global::Holy_Garden.Droid.Resource.Style.CardView_Dark;
+			global::Xamarians.Media.Droid.Resource.Style.CardView_Light = global::Holy_Garden.Droid.Resource.Style.CardView_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Platform_AppCompat = global::Holy_Garden.Droid.Resource.Style.Platform_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Platform_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Holy_Garden.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Holy_Garden.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarians.Media.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Holy_Garden.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarians.Media.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Holy_Garden.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarians.Media.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Holy_Garden.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarians.Media.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Holy_Garden.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Holy_Garden.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Design_Counter = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Design_Error = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Design_Hint = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Design_Tab = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarians.Media.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Holy_Garden.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_DayNight = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Dialog = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::Holy_Garden.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_Design = global::Holy_Garden.Droid.Resource.Style.Theme_Design;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::Holy_Garden.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_Design_Light = global::Holy_Garden.Droid.Resource.Style.Theme_Design_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Holy_Garden.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::Holy_Garden.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Theme_Design_NoActionBar = global::Holy_Garden.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.ThemeOverlay_AppCompat = global::Holy_Garden.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarians.Media.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Holy_Garden.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Holy_Garden.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarians.Media.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Holy_Garden.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::Holy_Garden.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Button = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_EditText = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ListView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_SearchView = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Spinner = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Holy_Garden.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_AppBarLayout = global::Holy_Garden.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::Holy_Garden.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::Holy_Garden.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::Holy_Garden.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_NavigationView = global::Holy_Garden.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Holy_Garden.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_Snackbar = global::Holy_Garden.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_TabLayout = global::Holy_Garden.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarians.Media.Droid.Resource.Style.Widget_Design_TextInputLayout = global::Holy_Garden.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar = global::Holy_Garden.Droid.Resource.Styleable.ActionBar;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_background = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_background;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_displayOptions = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_divider = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_divider;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_elevation = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_height = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_height;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_homeLayout = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_icon = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_icon;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_itemPadding = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_logo = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_logo;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_navigationMode = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_popupTheme = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_subtitle = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_title = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_title;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::Holy_Garden.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBarLayout = global::Holy_Garden.Droid.Resource.Styleable.ActionBarLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Holy_Garden.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMenuItemView = global::Holy_Garden.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Holy_Garden.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMenuView = global::Holy_Garden.Droid.Resource.Styleable.ActionMenuView;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMode = global::Holy_Garden.Droid.Resource.Styleable.ActionMode;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMode_background = global::Holy_Garden.Droid.Resource.Styleable.ActionMode_background;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::Holy_Garden.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::Holy_Garden.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMode_height = global::Holy_Garden.Droid.Resource.Styleable.ActionMode_height;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::Holy_Garden.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::Holy_Garden.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActivityChooserView = global::Holy_Garden.Droid.Resource.Styleable.ActivityChooserView;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Holy_Garden.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Holy_Garden.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarians.Media.Droid.Resource.Styleable.AlertDialog = global::Holy_Garden.Droid.Resource.Styleable.AlertDialog;
+			global::Xamarians.Media.Droid.Resource.Styleable.AlertDialog_android_layout = global::Holy_Garden.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarians.Media.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Holy_Garden.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::Holy_Garden.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.AlertDialog_listLayout = global::Holy_Garden.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Holy_Garden.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Holy_Garden.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppBarLayout = global::Holy_Garden.Droid.Resource.Styleable.AppBarLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppBarLayout_android_background = global::Holy_Garden.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppBarLayout_elevation = global::Holy_Garden.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppBarLayout_expanded = global::Holy_Garden.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatImageView = global::Holy_Garden.Droid.Resource.Styleable.AppCompatImageView;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatImageView_android_src = global::Holy_Garden.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::Holy_Garden.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTextView = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTextView;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarians.Media.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Holy_Garden.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarians.Media.Droid.Resource.Styleable.ButtonBarLayout = global::Holy_Garden.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::Holy_Garden.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView = global::Holy_Garden.Droid.Resource.Styleable.CardView;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_android_minHeight = global::Holy_Garden.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_android_minWidth = global::Holy_Garden.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::Holy_Garden.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_cardCornerRadius = global::Holy_Garden.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_cardElevation = global::Holy_Garden.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_cardMaxElevation = global::Holy_Garden.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Holy_Garden.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::Holy_Garden.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_contentPadding = global::Holy_Garden.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::Holy_Garden.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::Holy_Garden.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_contentPaddingRight = global::Holy_Garden.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarians.Media.Droid.Resource.Styleable.CardView_contentPaddingTop = global::Holy_Garden.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarians.Media.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Holy_Garden.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarians.Media.Droid.Resource.Styleable.CompoundButton = global::Holy_Garden.Droid.Resource.Styleable.CompoundButton;
+			global::Xamarians.Media.Droid.Resource.Styleable.CompoundButton_android_button = global::Holy_Garden.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarians.Media.Droid.Resource.Styleable.CompoundButton_buttonTint = global::Holy_Garden.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarians.Media.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::Holy_Garden.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarians.Media.Droid.Resource.Styleable.CoordinatorLayout = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarians.Media.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Holy_Garden.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle_color = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarians.Media.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::Holy_Garden.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton_elevation = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Holy_Garden.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.ForegroundLinearLayout = global::Holy_Garden.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Holy_Garden.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarians.Media.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Holy_Garden.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarians.Media.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Holy_Garden.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarians.Media.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Holy_Garden.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarians.Media.Droid.Resource.Styleable.ListPopupWindow = global::Holy_Garden.Droid.Resource.Styleable.ListPopupWindow;
+			global::Xamarians.Media.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Holy_Garden.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarians.Media.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Holy_Garden.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuGroup = global::Holy_Garden.Droid.Resource.Styleable.MenuGroup;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Holy_Garden.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuGroup_android_enabled = global::Holy_Garden.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuGroup_android_id = global::Holy_Garden.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::Holy_Garden.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::Holy_Garden.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuGroup_android_visible = global::Holy_Garden.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem = global::Holy_Garden.Droid.Resource.Styleable.MenuItem;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_actionLayout = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_actionViewClass = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_checkable = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_checked = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_enabled = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_icon = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_id = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_onClick = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_title = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_android_visible = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuItem_showAsAction = global::Holy_Garden.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView = global::Holy_Garden.Droid.Resource.Styleable.MenuView;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView_android_headerBackground = global::Holy_Garden.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::Holy_Garden.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView_android_itemBackground = global::Holy_Garden.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Holy_Garden.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::Holy_Garden.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Holy_Garden.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::Holy_Garden.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView = global::Holy_Garden.Droid.Resource.Styleable.NavigationView;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_android_background = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_elevation = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_headerLayout = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_itemBackground = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_itemIconTint = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_itemTextColor = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.NavigationView_menu = global::Holy_Garden.Droid.Resource.Styleable.NavigationView_menu;
+			global::Xamarians.Media.Droid.Resource.Styleable.PopupWindow = global::Holy_Garden.Droid.Resource.Styleable.PopupWindow;
+			global::Xamarians.Media.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::Holy_Garden.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::Holy_Garden.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarians.Media.Droid.Resource.Styleable.PopupWindowBackgroundState = global::Holy_Garden.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarians.Media.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Holy_Garden.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarians.Media.Droid.Resource.Styleable.RecyclerView = global::Holy_Garden.Droid.Resource.Styleable.RecyclerView;
+			global::Xamarians.Media.Droid.Resource.Styleable.RecyclerView_android_orientation = global::Holy_Garden.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarians.Media.Droid.Resource.Styleable.RecyclerView_layoutManager = global::Holy_Garden.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarians.Media.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::Holy_Garden.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.RecyclerView_spanCount = global::Holy_Garden.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarians.Media.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::Holy_Garden.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarians.Media.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::Holy_Garden.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Holy_Garden.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView = global::Holy_Garden.Droid.Resource.Styleable.SearchView;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_android_focusable = global::Holy_Garden.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_android_imeOptions = global::Holy_Garden.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_android_inputType = global::Holy_Garden.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_android_maxWidth = global::Holy_Garden.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_closeIcon = global::Holy_Garden.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_commitIcon = global::Holy_Garden.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::Holy_Garden.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_goIcon = global::Holy_Garden.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::Holy_Garden.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_layout = global::Holy_Garden.Droid.Resource.Styleable.SearchView_layout;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_queryBackground = global::Holy_Garden.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_queryHint = global::Holy_Garden.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_searchHintIcon = global::Holy_Garden.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_searchIcon = global::Holy_Garden.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_submitBackground = global::Holy_Garden.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::Holy_Garden.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.SearchView_voiceIcon = global::Holy_Garden.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarians.Media.Droid.Resource.Styleable.SnackbarLayout = global::Holy_Garden.Droid.Resource.Styleable.SnackbarLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Holy_Garden.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.SnackbarLayout_elevation = global::Holy_Garden.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarians.Media.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Holy_Garden.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.Spinner = global::Holy_Garden.Droid.Resource.Styleable.Spinner;
+			global::Xamarians.Media.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::Holy_Garden.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.Spinner_android_entries = global::Holy_Garden.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Xamarians.Media.Droid.Resource.Styleable.Spinner_android_popupBackground = global::Holy_Garden.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.Spinner_android_prompt = global::Holy_Garden.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarians.Media.Droid.Resource.Styleable.Spinner_popupTheme = global::Holy_Garden.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_showText = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.SwitchCompat_track = global::Holy_Garden.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabItem = global::Holy_Garden.Droid.Resource.Styleable.TabItem;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabItem_android_icon = global::Holy_Garden.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabItem_android_layout = global::Holy_Garden.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabItem_android_text = global::Holy_Garden.Droid.Resource.Styleable.TabItem_android_text;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout = global::Holy_Garden.Droid.Resource.Styleable.TabLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabBackground = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabContentStart = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabGravity = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabMode = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabPadding = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.TabLayout_tabTextColor = global::Holy_Garden.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_android_textColor = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_android_textSize = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_android_typeface = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::Holy_Garden.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_android_hint = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarians.Media.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar = global::Holy_Garden.Droid.Resource.Styleable.Toolbar;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_android_gravity = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_android_minHeight = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_collapseIcon = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_logo = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_logo;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_logoDescription = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_navigationIcon = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_popupTheme = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_subtitle = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_title = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_title;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_titleMargins = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarians.Media.Droid.Resource.Styleable.Toolbar_titleTextColor = global::Holy_Garden.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarians.Media.Droid.Resource.Styleable.View = global::Holy_Garden.Droid.Resource.Styleable.View;
+			global::Xamarians.Media.Droid.Resource.Styleable.View_android_focusable = global::Holy_Garden.Droid.Resource.Styleable.View_android_focusable;
+			global::Xamarians.Media.Droid.Resource.Styleable.View_android_theme = global::Holy_Garden.Droid.Resource.Styleable.View_android_theme;
+			global::Xamarians.Media.Droid.Resource.Styleable.View_paddingEnd = global::Holy_Garden.Droid.Resource.Styleable.View_paddingEnd;
+			global::Xamarians.Media.Droid.Resource.Styleable.View_paddingStart = global::Holy_Garden.Droid.Resource.Styleable.View_paddingStart;
+			global::Xamarians.Media.Droid.Resource.Styleable.View_theme = global::Holy_Garden.Droid.Resource.Styleable.View_theme;
+			global::Xamarians.Media.Droid.Resource.Styleable.ViewBackgroundHelper = global::Holy_Garden.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarians.Media.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::Holy_Garden.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarians.Media.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Holy_Garden.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarians.Media.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Holy_Garden.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarians.Media.Droid.Resource.Styleable.ViewStubCompat = global::Holy_Garden.Droid.Resource.Styleable.ViewStubCompat;
+			global::Xamarians.Media.Droid.Resource.Styleable.ViewStubCompat_android_id = global::Holy_Garden.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarians.Media.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Holy_Garden.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarians.Media.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::Holy_Garden.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Holy_Garden.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Holy_Garden.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::Holy_Garden.Droid.Resource.Attribute.fontProviderAuthority;
@@ -21467,359 +23212,365 @@ namespace Holy_Garden.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0E0000
-			public const int abc_action_bar_home_description = 2131623936;
-			
-			// aapt resource value: 0x7F0E0001
-			public const int abc_action_bar_up_description = 2131623937;
-			
 			// aapt resource value: 0x7F0E0002
-			public const int abc_action_menu_overflow_description = 2131623938;
+			public const int abc_action_bar_home_description = 2131623938;
 			
 			// aapt resource value: 0x7F0E0003
-			public const int abc_action_mode_done = 2131623939;
-			
-			// aapt resource value: 0x7F0E0005
-			public const int abc_activitychooserview_choose_application = 2131623941;
+			public const int abc_action_bar_up_description = 2131623939;
 			
 			// aapt resource value: 0x7F0E0004
-			public const int abc_activity_chooser_view_see_all = 2131623940;
+			public const int abc_action_menu_overflow_description = 2131623940;
 			
-			// aapt resource value: 0x7F0E0006
-			public const int abc_capital_off = 2131623942;
+			// aapt resource value: 0x7F0E0005
+			public const int abc_action_mode_done = 2131623941;
 			
 			// aapt resource value: 0x7F0E0007
-			public const int abc_capital_on = 2131623943;
+			public const int abc_activitychooserview_choose_application = 2131623943;
+			
+			// aapt resource value: 0x7F0E0006
+			public const int abc_activity_chooser_view_see_all = 2131623942;
 			
 			// aapt resource value: 0x7F0E0008
-			public const int abc_menu_alt_shortcut_label = 2131623944;
+			public const int abc_capital_off = 2131623944;
 			
 			// aapt resource value: 0x7F0E0009
-			public const int abc_menu_ctrl_shortcut_label = 2131623945;
+			public const int abc_capital_on = 2131623945;
 			
 			// aapt resource value: 0x7F0E000A
-			public const int abc_menu_delete_shortcut_label = 2131623946;
+			public const int abc_menu_alt_shortcut_label = 2131623946;
 			
 			// aapt resource value: 0x7F0E000B
-			public const int abc_menu_enter_shortcut_label = 2131623947;
+			public const int abc_menu_ctrl_shortcut_label = 2131623947;
 			
 			// aapt resource value: 0x7F0E000C
-			public const int abc_menu_function_shortcut_label = 2131623948;
+			public const int abc_menu_delete_shortcut_label = 2131623948;
 			
 			// aapt resource value: 0x7F0E000D
-			public const int abc_menu_meta_shortcut_label = 2131623949;
+			public const int abc_menu_enter_shortcut_label = 2131623949;
 			
 			// aapt resource value: 0x7F0E000E
-			public const int abc_menu_shift_shortcut_label = 2131623950;
+			public const int abc_menu_function_shortcut_label = 2131623950;
 			
 			// aapt resource value: 0x7F0E000F
-			public const int abc_menu_space_shortcut_label = 2131623951;
+			public const int abc_menu_meta_shortcut_label = 2131623951;
 			
 			// aapt resource value: 0x7F0E0010
-			public const int abc_menu_sym_shortcut_label = 2131623952;
+			public const int abc_menu_shift_shortcut_label = 2131623952;
 			
 			// aapt resource value: 0x7F0E0011
-			public const int abc_prepend_shortcut_label = 2131623953;
-			
-			// aapt resource value: 0x7F0E0013
-			public const int abc_searchview_description_clear = 2131623955;
-			
-			// aapt resource value: 0x7F0E0014
-			public const int abc_searchview_description_query = 2131623956;
-			
-			// aapt resource value: 0x7F0E0015
-			public const int abc_searchview_description_search = 2131623957;
-			
-			// aapt resource value: 0x7F0E0016
-			public const int abc_searchview_description_submit = 2131623958;
-			
-			// aapt resource value: 0x7F0E0017
-			public const int abc_searchview_description_voice = 2131623959;
+			public const int abc_menu_space_shortcut_label = 2131623953;
 			
 			// aapt resource value: 0x7F0E0012
-			public const int abc_search_hint = 2131623954;
+			public const int abc_menu_sym_shortcut_label = 2131623954;
+			
+			// aapt resource value: 0x7F0E0013
+			public const int abc_prepend_shortcut_label = 2131623955;
+			
+			// aapt resource value: 0x7F0E0015
+			public const int abc_searchview_description_clear = 2131623957;
+			
+			// aapt resource value: 0x7F0E0016
+			public const int abc_searchview_description_query = 2131623958;
+			
+			// aapt resource value: 0x7F0E0017
+			public const int abc_searchview_description_search = 2131623959;
 			
 			// aapt resource value: 0x7F0E0018
-			public const int abc_shareactionprovider_share_with = 2131623960;
+			public const int abc_searchview_description_submit = 2131623960;
 			
 			// aapt resource value: 0x7F0E0019
-			public const int abc_shareactionprovider_share_with_application = 2131623961;
+			public const int abc_searchview_description_voice = 2131623961;
+			
+			// aapt resource value: 0x7F0E0014
+			public const int abc_search_hint = 2131623956;
 			
 			// aapt resource value: 0x7F0E001A
-			public const int abc_toolbar_collapse_description = 2131623962;
+			public const int abc_shareactionprovider_share_with = 2131623962;
 			
 			// aapt resource value: 0x7F0E001B
-			public const int appbar_scrolling_view_behavior = 2131623963;
-			
-			// aapt resource value: 0x7F0E001D
-			public const int bottomsheet_action_expand_halfway = 2131623965;
+			public const int abc_shareactionprovider_share_with_application = 2131623963;
 			
 			// aapt resource value: 0x7F0E001C
-			public const int bottom_sheet_behavior = 2131623964;
+			public const int abc_toolbar_collapse_description = 2131623964;
 			
-			// aapt resource value: 0x7F0E001E
-			public const int character_counter_content_description = 2131623966;
+			// aapt resource value: 0x7F0E001D
+			public const int appbar_scrolling_view_behavior = 2131623965;
+			
+			// aapt resource value: 0x7F0E0000
+			public const int ApplicationName = 2131623936;
 			
 			// aapt resource value: 0x7F0E001F
-			public const int character_counter_overflowed_content_description = 2131623967;
+			public const int bottomsheet_action_expand_halfway = 2131623967;
+			
+			// aapt resource value: 0x7F0E001E
+			public const int bottom_sheet_behavior = 2131623966;
 			
 			// aapt resource value: 0x7F0E0020
-			public const int character_counter_pattern = 2131623968;
+			public const int character_counter_content_description = 2131623968;
 			
 			// aapt resource value: 0x7F0E0021
-			public const int chip_text = 2131623969;
+			public const int character_counter_overflowed_content_description = 2131623969;
 			
 			// aapt resource value: 0x7F0E0022
-			public const int clear_text_end_icon_content_description = 2131623970;
+			public const int character_counter_pattern = 2131623970;
 			
 			// aapt resource value: 0x7F0E0023
-			public const int copy = 2131623971;
+			public const int chip_text = 2131623971;
 			
 			// aapt resource value: 0x7F0E0024
-			public const int copy_toast_msg = 2131623972;
+			public const int clear_text_end_icon_content_description = 2131623972;
 			
 			// aapt resource value: 0x7F0E0025
-			public const int error_icon_content_description = 2131623973;
+			public const int copy = 2131623973;
 			
 			// aapt resource value: 0x7F0E0026
-			public const int expand_button_title = 2131623974;
+			public const int copy_toast_msg = 2131623974;
 			
 			// aapt resource value: 0x7F0E0027
-			public const int exposed_dropdown_menu_content_description = 2131623975;
+			public const int error_icon_content_description = 2131623975;
 			
 			// aapt resource value: 0x7F0E0028
-			public const int fab_transformation_scrim_behavior = 2131623976;
+			public const int expand_button_title = 2131623976;
 			
 			// aapt resource value: 0x7F0E0029
-			public const int fab_transformation_sheet_behavior = 2131623977;
+			public const int exposed_dropdown_menu_content_description = 2131623977;
 			
 			// aapt resource value: 0x7F0E002A
-			public const int fallback_menu_item_copy_link = 2131623978;
+			public const int fab_transformation_scrim_behavior = 2131623978;
 			
 			// aapt resource value: 0x7F0E002B
-			public const int fallback_menu_item_open_in_browser = 2131623979;
+			public const int fab_transformation_sheet_behavior = 2131623979;
 			
 			// aapt resource value: 0x7F0E002C
-			public const int fallback_menu_item_share_link = 2131623980;
+			public const int fallback_menu_item_copy_link = 2131623980;
 			
 			// aapt resource value: 0x7F0E002D
-			public const int hide_bottom_view_on_scroll_behavior = 2131623981;
+			public const int fallback_menu_item_open_in_browser = 2131623981;
 			
 			// aapt resource value: 0x7F0E002E
-			public const int icon_content_description = 2131623982;
+			public const int fallback_menu_item_share_link = 2131623982;
+			
+			// aapt resource value: 0x7F0E0001
+			public const int Hello = 2131623937;
 			
 			// aapt resource value: 0x7F0E002F
-			public const int item_view_role_description = 2131623983;
+			public const int hide_bottom_view_on_scroll_behavior = 2131623983;
 			
 			// aapt resource value: 0x7F0E0030
-			public const int material_clock_display_divider = 2131623984;
+			public const int icon_content_description = 2131623984;
 			
 			// aapt resource value: 0x7F0E0031
-			public const int material_clock_toggle_content_description = 2131623985;
+			public const int item_view_role_description = 2131623985;
 			
 			// aapt resource value: 0x7F0E0032
-			public const int material_hour_selection = 2131623986;
+			public const int material_clock_display_divider = 2131623986;
 			
 			// aapt resource value: 0x7F0E0033
-			public const int material_hour_suffix = 2131623987;
+			public const int material_clock_toggle_content_description = 2131623987;
 			
 			// aapt resource value: 0x7F0E0034
-			public const int material_minute_selection = 2131623988;
+			public const int material_hour_selection = 2131623988;
 			
 			// aapt resource value: 0x7F0E0035
-			public const int material_minute_suffix = 2131623989;
+			public const int material_hour_suffix = 2131623989;
 			
 			// aapt resource value: 0x7F0E0036
-			public const int material_motion_easing_accelerated = 2131623990;
+			public const int material_minute_selection = 2131623990;
 			
 			// aapt resource value: 0x7F0E0037
-			public const int material_motion_easing_decelerated = 2131623991;
+			public const int material_minute_suffix = 2131623991;
 			
 			// aapt resource value: 0x7F0E0038
-			public const int material_motion_easing_emphasized = 2131623992;
+			public const int material_motion_easing_accelerated = 2131623992;
 			
 			// aapt resource value: 0x7F0E0039
-			public const int material_motion_easing_linear = 2131623993;
+			public const int material_motion_easing_decelerated = 2131623993;
 			
 			// aapt resource value: 0x7F0E003A
-			public const int material_motion_easing_standard = 2131623994;
+			public const int material_motion_easing_emphasized = 2131623994;
 			
 			// aapt resource value: 0x7F0E003B
-			public const int material_slider_range_end = 2131623995;
+			public const int material_motion_easing_linear = 2131623995;
 			
 			// aapt resource value: 0x7F0E003C
-			public const int material_slider_range_start = 2131623996;
+			public const int material_motion_easing_standard = 2131623996;
 			
 			// aapt resource value: 0x7F0E003D
-			public const int material_timepicker_am = 2131623997;
+			public const int material_slider_range_end = 2131623997;
 			
 			// aapt resource value: 0x7F0E003E
-			public const int material_timepicker_clock_mode_description = 2131623998;
+			public const int material_slider_range_start = 2131623998;
 			
 			// aapt resource value: 0x7F0E003F
-			public const int material_timepicker_hour = 2131623999;
+			public const int material_timepicker_am = 2131623999;
 			
 			// aapt resource value: 0x7F0E0040
-			public const int material_timepicker_minute = 2131624000;
+			public const int material_timepicker_clock_mode_description = 2131624000;
 			
 			// aapt resource value: 0x7F0E0041
-			public const int material_timepicker_pm = 2131624001;
+			public const int material_timepicker_hour = 2131624001;
 			
 			// aapt resource value: 0x7F0E0042
-			public const int material_timepicker_select_time = 2131624002;
+			public const int material_timepicker_minute = 2131624002;
 			
 			// aapt resource value: 0x7F0E0043
-			public const int material_timepicker_text_input_mode_description = 2131624003;
+			public const int material_timepicker_pm = 2131624003;
 			
 			// aapt resource value: 0x7F0E0044
-			public const int mtrl_badge_numberless_content_description = 2131624004;
+			public const int material_timepicker_select_time = 2131624004;
 			
 			// aapt resource value: 0x7F0E0045
-			public const int mtrl_chip_close_icon_content_description = 2131624005;
+			public const int material_timepicker_text_input_mode_description = 2131624005;
 			
 			// aapt resource value: 0x7F0E0046
-			public const int mtrl_exceed_max_badge_number_content_description = 2131624006;
+			public const int mtrl_badge_numberless_content_description = 2131624006;
 			
 			// aapt resource value: 0x7F0E0047
-			public const int mtrl_exceed_max_badge_number_suffix = 2131624007;
+			public const int mtrl_chip_close_icon_content_description = 2131624007;
 			
 			// aapt resource value: 0x7F0E0048
-			public const int mtrl_picker_a11y_next_month = 2131624008;
+			public const int mtrl_exceed_max_badge_number_content_description = 2131624008;
 			
 			// aapt resource value: 0x7F0E0049
-			public const int mtrl_picker_a11y_prev_month = 2131624009;
+			public const int mtrl_exceed_max_badge_number_suffix = 2131624009;
 			
 			// aapt resource value: 0x7F0E004A
-			public const int mtrl_picker_announce_current_selection = 2131624010;
+			public const int mtrl_picker_a11y_next_month = 2131624010;
 			
 			// aapt resource value: 0x7F0E004B
-			public const int mtrl_picker_cancel = 2131624011;
+			public const int mtrl_picker_a11y_prev_month = 2131624011;
 			
 			// aapt resource value: 0x7F0E004C
-			public const int mtrl_picker_confirm = 2131624012;
+			public const int mtrl_picker_announce_current_selection = 2131624012;
 			
 			// aapt resource value: 0x7F0E004D
-			public const int mtrl_picker_date_header_selected = 2131624013;
+			public const int mtrl_picker_cancel = 2131624013;
 			
 			// aapt resource value: 0x7F0E004E
-			public const int mtrl_picker_date_header_title = 2131624014;
+			public const int mtrl_picker_confirm = 2131624014;
 			
 			// aapt resource value: 0x7F0E004F
-			public const int mtrl_picker_date_header_unselected = 2131624015;
+			public const int mtrl_picker_date_header_selected = 2131624015;
 			
 			// aapt resource value: 0x7F0E0050
-			public const int mtrl_picker_day_of_week_column_header = 2131624016;
+			public const int mtrl_picker_date_header_title = 2131624016;
 			
 			// aapt resource value: 0x7F0E0051
-			public const int mtrl_picker_invalid_format = 2131624017;
+			public const int mtrl_picker_date_header_unselected = 2131624017;
 			
 			// aapt resource value: 0x7F0E0052
-			public const int mtrl_picker_invalid_format_example = 2131624018;
+			public const int mtrl_picker_day_of_week_column_header = 2131624018;
 			
 			// aapt resource value: 0x7F0E0053
-			public const int mtrl_picker_invalid_format_use = 2131624019;
+			public const int mtrl_picker_invalid_format = 2131624019;
 			
 			// aapt resource value: 0x7F0E0054
-			public const int mtrl_picker_invalid_range = 2131624020;
+			public const int mtrl_picker_invalid_format_example = 2131624020;
 			
 			// aapt resource value: 0x7F0E0055
-			public const int mtrl_picker_navigate_to_year_description = 2131624021;
+			public const int mtrl_picker_invalid_format_use = 2131624021;
 			
 			// aapt resource value: 0x7F0E0056
-			public const int mtrl_picker_out_of_range = 2131624022;
+			public const int mtrl_picker_invalid_range = 2131624022;
 			
 			// aapt resource value: 0x7F0E0057
-			public const int mtrl_picker_range_header_only_end_selected = 2131624023;
+			public const int mtrl_picker_navigate_to_year_description = 2131624023;
 			
 			// aapt resource value: 0x7F0E0058
-			public const int mtrl_picker_range_header_only_start_selected = 2131624024;
+			public const int mtrl_picker_out_of_range = 2131624024;
 			
 			// aapt resource value: 0x7F0E0059
-			public const int mtrl_picker_range_header_selected = 2131624025;
+			public const int mtrl_picker_range_header_only_end_selected = 2131624025;
 			
 			// aapt resource value: 0x7F0E005A
-			public const int mtrl_picker_range_header_title = 2131624026;
+			public const int mtrl_picker_range_header_only_start_selected = 2131624026;
 			
 			// aapt resource value: 0x7F0E005B
-			public const int mtrl_picker_range_header_unselected = 2131624027;
+			public const int mtrl_picker_range_header_selected = 2131624027;
 			
 			// aapt resource value: 0x7F0E005C
-			public const int mtrl_picker_save = 2131624028;
+			public const int mtrl_picker_range_header_title = 2131624028;
 			
 			// aapt resource value: 0x7F0E005D
-			public const int mtrl_picker_text_input_date_hint = 2131624029;
+			public const int mtrl_picker_range_header_unselected = 2131624029;
 			
 			// aapt resource value: 0x7F0E005E
-			public const int mtrl_picker_text_input_date_range_end_hint = 2131624030;
+			public const int mtrl_picker_save = 2131624030;
 			
 			// aapt resource value: 0x7F0E005F
-			public const int mtrl_picker_text_input_date_range_start_hint = 2131624031;
+			public const int mtrl_picker_text_input_date_hint = 2131624031;
 			
 			// aapt resource value: 0x7F0E0060
-			public const int mtrl_picker_text_input_day_abbr = 2131624032;
+			public const int mtrl_picker_text_input_date_range_end_hint = 2131624032;
 			
 			// aapt resource value: 0x7F0E0061
-			public const int mtrl_picker_text_input_month_abbr = 2131624033;
+			public const int mtrl_picker_text_input_date_range_start_hint = 2131624033;
 			
 			// aapt resource value: 0x7F0E0062
-			public const int mtrl_picker_text_input_year_abbr = 2131624034;
+			public const int mtrl_picker_text_input_day_abbr = 2131624034;
 			
 			// aapt resource value: 0x7F0E0063
-			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624035;
+			public const int mtrl_picker_text_input_month_abbr = 2131624035;
 			
 			// aapt resource value: 0x7F0E0064
-			public const int mtrl_picker_toggle_to_day_selection = 2131624036;
+			public const int mtrl_picker_text_input_year_abbr = 2131624036;
 			
 			// aapt resource value: 0x7F0E0065
-			public const int mtrl_picker_toggle_to_text_input_mode = 2131624037;
+			public const int mtrl_picker_toggle_to_calendar_input_mode = 2131624037;
 			
 			// aapt resource value: 0x7F0E0066
-			public const int mtrl_picker_toggle_to_year_selection = 2131624038;
+			public const int mtrl_picker_toggle_to_day_selection = 2131624038;
 			
 			// aapt resource value: 0x7F0E0067
-			public const int nav_app_bar_navigate_up_description = 2131624039;
+			public const int mtrl_picker_toggle_to_text_input_mode = 2131624039;
 			
 			// aapt resource value: 0x7F0E0068
-			public const int nav_app_bar_open_drawer_description = 2131624040;
+			public const int mtrl_picker_toggle_to_year_selection = 2131624040;
 			
 			// aapt resource value: 0x7F0E0069
-			public const int not_set = 2131624041;
+			public const int nav_app_bar_navigate_up_description = 2131624041;
 			
 			// aapt resource value: 0x7F0E006A
-			public const int overflow_tab_title = 2131624042;
+			public const int nav_app_bar_open_drawer_description = 2131624042;
 			
 			// aapt resource value: 0x7F0E006B
-			public const int password_toggle_content_description = 2131624043;
+			public const int not_set = 2131624043;
 			
 			// aapt resource value: 0x7F0E006C
-			public const int path_password_eye = 2131624044;
+			public const int overflow_tab_title = 2131624044;
 			
 			// aapt resource value: 0x7F0E006D
-			public const int path_password_eye_mask_strike_through = 2131624045;
+			public const int password_toggle_content_description = 2131624045;
 			
 			// aapt resource value: 0x7F0E006E
-			public const int path_password_eye_mask_visible = 2131624046;
+			public const int path_password_eye = 2131624046;
 			
 			// aapt resource value: 0x7F0E006F
-			public const int path_password_strike_through = 2131624047;
+			public const int path_password_eye_mask_strike_through = 2131624047;
 			
 			// aapt resource value: 0x7F0E0070
-			public const int preference_copied = 2131624048;
+			public const int path_password_eye_mask_visible = 2131624048;
 			
 			// aapt resource value: 0x7F0E0071
-			public const int search_menu_title = 2131624049;
+			public const int path_password_strike_through = 2131624049;
 			
 			// aapt resource value: 0x7F0E0072
-			public const int status_bar_notification_info_overflow = 2131624050;
+			public const int preference_copied = 2131624050;
 			
 			// aapt resource value: 0x7F0E0073
-			public const int summary_collapsed_preference_list = 2131624051;
+			public const int search_menu_title = 2131624051;
 			
 			// aapt resource value: 0x7F0E0074
-			public const int v7_preference_off = 2131624052;
+			public const int status_bar_notification_info_overflow = 2131624052;
 			
 			// aapt resource value: 0x7F0E0075
-			public const int v7_preference_on = 2131624053;
+			public const int summary_collapsed_preference_list = 2131624053;
+			
+			// aapt resource value: 0x7F0E0076
+			public const int v7_preference_off = 2131624054;
+			
+			// aapt resource value: 0x7F0E0077
+			public const int v7_preference_on = 2131624055;
 			
 			static String()
 			{

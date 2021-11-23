@@ -1,25 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Essentials;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
-using XamarinReactorUI;
 
 namespace Holy_Garden
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class acceuil : ContentPage
+    public partial class camera : ContentPage
     {
-        public acceuil()
+        public camera()
         {
             InitializeComponent();
-            NavigationPage.SetHasNavigationBar(this, false);
         }
 
-        async void Gallery(System.Object sender, System.EventArgs e)
+
+
+        async void Button_Clicked(System.Object sender, System.EventArgs e)
         {
             var result = await MediaPicker.PickPhotoAsync(new MediaPickerOptions
             {
@@ -33,7 +32,8 @@ namespace Holy_Garden
                 resultImage.Source = ImageSource.FromStream(() => stream);
             }
         }
-        async void Camera(System.Object sender, System.EventArgs e)
+
+        async void Button1_Clicked(System.Object sender, System.EventArgs e)
         {
             var result = await MediaPicker.CapturePhotoAsync();
 

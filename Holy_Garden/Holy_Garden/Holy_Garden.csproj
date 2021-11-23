@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -11,6 +11,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Xam.Plugin.Media" Version="5.0.1" />
+    <PackageReference Include="Xamarians.Media" Version="1.0.3" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2244" />
     <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
     <PackageReference Include="Xamarin.Forms.PancakeView" Version="2.3.0.759" />
@@ -19,6 +21,9 @@
 
   <ItemGroup>
     <EmbeddedResource Update="acceuil.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="camera.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
