@@ -11,6 +11,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Emgu.CV" Version="4.5.4.4788" />
+    <PackageReference Include="EmguCV" Version="3.1.0.1" />
     <PackageReference Include="Xam.Plugin.Media" Version="5.0.1" />
     <PackageReference Include="Xamarians.Media" Version="1.0.3" />
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2244" />
@@ -21,9 +23,6 @@
 
   <ItemGroup>
     <EmbeddedResource Update="acceuil.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-    <EmbeddedResource Update="camera.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

@@ -44,13 +44,13 @@
                     CornerRadius="40">
 
                     <StackLayout>
-                        <Label Text="Philosophy est une chanson de Tom Snare le 9 mai 2006 sous le label ULM. la chanson a été composé par Xavier Decanter, Bruno Musitelli, Steve Watt et produit par Tom Snare. La version originale de 2005, sorti sur un EP de format vinyle, dure environ 8 minutes."
+                    <Label Text="Humidité: YES\nSanté: YES\nSuggestion: YES\n"
                                TextColor="white"
                                Margin="25"
                                FontSize="Large"
                                FontAttributes="Italic"
                                ></Label>
-                        <Label Text="Type de plante"
+                        <Label Text="L'analyse du plante"
                                FontAttributes="Bold"
                                FontSize="Large"
                                TextColor="ForestGreen"

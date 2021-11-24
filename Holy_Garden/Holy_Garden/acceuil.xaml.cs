@@ -9,6 +9,7 @@ using Xamarin.Forms.Xaml;
 using XamarinReactorUI;
 
 namespace Holy_Garden
+
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class acceuil : ContentPage
@@ -22,6 +23,7 @@ namespace Holy_Garden
         async void Gallery(System.Object sender, System.EventArgs e)
         {
             var result = await MediaPicker.PickPhotoAsync(new MediaPickerOptions
+
             {
                 Title = "Please pick a photo"
             });
@@ -43,6 +45,7 @@ namespace Holy_Garden
 
                 resultImage.Source = ImageSource.FromStream(() => stream);
             }
+        
         }
     }
 }
